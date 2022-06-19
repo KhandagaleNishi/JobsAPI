@@ -1,0 +1,2934 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="90" passed="87" failed="3" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-19T15:47:14 EDT" name="Suite" finished-at="2022-06-19T15:47:22 EDT" duration-ms="7863">
+    <groups>
+    </groups>
+    <test started-at="2022-06-19T15:47:14 EDT" name="Test" finished-at="2022-06-19T15:47:22 EDT" duration-ms="7863">
+      <class name="com.restAssured.JobsAPITest.TC_DeleteRequest_004">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.restAssured.JobsAPITest.TC_DeleteRequest_004@5223e5ee]" started-at="2022-06-19T15:47:22 EDT" name="setup" finished-at="2022-06-19T15:47:22 EDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="deleteRequest()[pri:0, instance:com.restAssured.JobsAPITest.TC_DeleteRequest_004@5223e5ee]" started-at="2022-06-19T15:47:22 EDT" name="deleteRequest" finished-at="2022-06-19T15:47:22 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteRequest -->
+        <test-method signature="deleteJobsData(java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_DeleteRequest_004@5223e5ee]" started-at="2022-06-19T15:47:22 EDT" name="deleteJobsData" data-provider="Deletedata" finished-at="2022-06-19T15:47:22 EDT" duration-ms="14" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26183]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteJobsData -->
+        <test-method signature="deleteJobsData(java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_DeleteRequest_004@5223e5ee]" started-at="2022-06-19T15:47:22 EDT" name="deleteJobsData" data-provider="Deletedata" finished-at="2022-06-19T15:47:22 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26184]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteJobsData -->
+        <test-method signature="deleteJobsData(java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_DeleteRequest_004@5223e5ee]" started-at="2022-06-19T15:47:22 EDT" name="deleteJobsData" data-provider="Deletedata" finished-at="2022-06-19T15:47:22 EDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26186]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteJobsData -->
+        <test-method signature="deleteJobsData(java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_DeleteRequest_004@5223e5ee]" started-at="2022-06-19T15:47:22 EDT" name="deleteJobsData" data-provider="Deletedata" finished-at="2022-06-19T15:47:22 EDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26185]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteJobsData -->
+        <test-method signature="deleteJobsData(java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_DeleteRequest_004@5223e5ee]" started-at="2022-06-19T15:47:22 EDT" name="deleteJobsData" data-provider="Deletedata" finished-at="2022-06-19T15:47:22 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26187]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteJobsData -->
+        <test-method signature="deleteJobsData(java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_DeleteRequest_004@5223e5ee]" started-at="2022-06-19T15:47:22 EDT" name="deleteJobsData" data-provider="Deletedata" finished-at="2022-06-19T15:47:22 EDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26188]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteJobsData -->
+        <test-method signature="deleteJobsData(java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_DeleteRequest_004@5223e5ee]" started-at="2022-06-19T15:47:22 EDT" name="deleteJobsData" data-provider="Deletedata" finished-at="2022-06-19T15:47:22 EDT" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26189]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteJobsData -->
+        <test-method signature="deleteJobsData(java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_DeleteRequest_004@5223e5ee]" started-at="2022-06-19T15:47:22 EDT" name="deleteJobsData" data-provider="Deletedata" finished-at="2022-06-19T15:47:22 EDT" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26190]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteJobsData -->
+        <test-method signature="deleteJobsData(java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_DeleteRequest_004@5223e5ee]" started-at="2022-06-19T15:47:22 EDT" name="deleteJobsData" data-provider="Deletedata" finished-at="2022-06-19T15:47:22 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26191]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteJobsData -->
+        <test-method signature="deleteJobsData(java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_DeleteRequest_004@5223e5ee]" started-at="2022-06-19T15:47:22 EDT" name="deleteJobsData" data-provider="Deletedata" finished-at="2022-06-19T15:47:22 EDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26192]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteJobsData -->
+        <test-method signature="deleteJobsData(java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_DeleteRequest_004@5223e5ee]" started-at="2022-06-19T15:47:22 EDT" name="deleteJobsData" data-provider="Deletedata" finished-at="2022-06-19T15:47:22 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26193]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteJobsData -->
+        <test-method signature="deleteJobsData(java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_DeleteRequest_004@5223e5ee]" started-at="2022-06-19T15:47:22 EDT" name="deleteJobsData" data-provider="Deletedata" finished-at="2022-06-19T15:47:22 EDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26194]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteJobsData -->
+        <test-method signature="deleteJobsData(java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_DeleteRequest_004@5223e5ee]" started-at="2022-06-19T15:47:22 EDT" name="deleteJobsData" data-provider="Deletedata" finished-at="2022-06-19T15:47:22 EDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26195]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteJobsData -->
+        <test-method signature="deleteJobsData(java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_DeleteRequest_004@5223e5ee]" started-at="2022-06-19T15:47:22 EDT" name="deleteJobsData" data-provider="Deletedata" finished-at="2022-06-19T15:47:22 EDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26198]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteJobsData -->
+        <test-method signature="deleteJobsData(java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_DeleteRequest_004@5223e5ee]" started-at="2022-06-19T15:47:22 EDT" name="deleteJobsData" data-provider="Deletedata" finished-at="2022-06-19T15:47:22 EDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26197]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteJobsData -->
+        <test-method signature="deleteJobsData(java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_DeleteRequest_004@5223e5ee]" started-at="2022-06-19T15:47:22 EDT" name="deleteJobsData" data-provider="Deletedata" finished-at="2022-06-19T15:47:22 EDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26196]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteJobsData -->
+        <test-method signature="deleteJobsData(java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_DeleteRequest_004@5223e5ee]" started-at="2022-06-19T15:47:22 EDT" name="deleteJobsData" data-provider="Deletedata" finished-at="2022-06-19T15:47:22 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26199]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteJobsData -->
+        <test-method signature="deleteJobsData(java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_DeleteRequest_004@5223e5ee]" started-at="2022-06-19T15:47:22 EDT" name="deleteJobsData" data-provider="Deletedata" finished-at="2022-06-19T15:47:22 EDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26200]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteJobsData -->
+        <test-method signature="deleteJobsData(java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_DeleteRequest_004@5223e5ee]" started-at="2022-06-19T15:47:22 EDT" name="deleteJobsData" data-provider="Deletedata" finished-at="2022-06-19T15:47:22 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26201]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteJobsData -->
+        <test-method signature="deleteJobsData(java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_DeleteRequest_004@5223e5ee]" started-at="2022-06-19T15:47:22 EDT" name="deleteJobsData" data-provider="Deletedata" finished-at="2022-06-19T15:47:22 EDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26202]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteJobsData -->
+        <test-method signature="deleteJobsData(java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_DeleteRequest_004@5223e5ee]" started-at="2022-06-19T15:47:22 EDT" name="deleteJobsData" data-provider="Deletedata" finished-at="2022-06-19T15:47:22 EDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26203]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteJobsData -->
+        <test-method signature="deleteJobsData(java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_DeleteRequest_004@5223e5ee]" started-at="2022-06-19T15:47:22 EDT" name="deleteJobsData" data-provider="Deletedata" finished-at="2022-06-19T15:47:22 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26204]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteJobsData -->
+        <test-method signature="deleteJobsDetails()[pri:0, instance:com.restAssured.JobsAPITest.TC_DeleteRequest_004@5223e5ee]" started-at="2022-06-19T15:47:22 EDT" name="deleteJobsDetails" finished-at="2022-06-19T15:47:22 EDT" depends-on-methods="com.restAssured.JobsAPITest.TC_DeleteRequest_004.deleteJobsData" duration-ms="51" status="FAIL">
+          <exception class="java.lang.IllegalStateException">
+            <message>
+              <![CDATA[Target host is null]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.IllegalStateException: Target host is null
+at org.apache.http.util.Asserts.notNull(Asserts.java:52)
+at org.apache.http.impl.conn.ProxySelectorRoutePlanner.determineRoute(ProxySelectorRoutePlanner.java:133)
+at org.apache.http.impl.client.DefaultRequestDirector.determineRoute(DefaultRequestDirector.java:756)
+at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:375)
+at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:835)
+at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+at io.restassured.internal.RestAssuredHttpBuilder.doRequest(RestAssuredHttpBuilder.java:141)
+at io.restassured.internal.http.HTTPBuilder.doRequest(HTTPBuilder.java:496)
+at io.restassured.internal.http.HTTPBuilder.request(HTTPBuilder.java:453)
+at io.restassured.internal.http.HTTPBuilder$request$2.call(Unknown Source)
+at io.restassured.internal.RequestSpecificationImpl.sendHttpRequest(RequestSpecificationImpl.groovy:1466)
+at io.restassured.internal.RequestSpecificationImpl.this$2$sendHttpRequest(RequestSpecificationImpl.groovy)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+at org.codehaus.groovy.reflection.CachedMethod.invoke(CachedMethod.java:343)
+at groovy.lang.MetaMethod.doMethodInvoke(MetaMethod.java:328)
+at groovy.lang.MetaClassImpl.doInvokeMethod(MetaClassImpl.java:1369)
+at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1103)
+at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1009)
+at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:792)
+at io.restassured.internal.RequestSpecificationImpl.invokeMethod(RequestSpecificationImpl.groovy)
+at org.codehaus.groovy.runtime.callsite.PogoInterceptableSite.call(PogoInterceptableSite.java:46)
+at org.codehaus.groovy.runtime.callsite.PogoInterceptableSite.callCurrent(PogoInterceptableSite.java:57)
+at io.restassured.internal.RequestSpecificationImpl.sendRequest(RequestSpecificationImpl.groovy:1215)
+at io.restassured.internal.RequestSpecificationImpl.this$2$sendRequest(RequestSpecificationImpl.groovy)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+at org.codehaus.groovy.reflection.CachedMethod.invoke(CachedMethod.java:343)
+at groovy.lang.MetaMethod.doMethodInvoke(MetaMethod.java:328)
+at groovy.lang.MetaClassImpl.doInvokeMethod(MetaClassImpl.java:1369)
+at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1103)
+at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1009)
+at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:792)
+at io.restassured.internal.RequestSpecificationImpl.invokeMethod(RequestSpecificationImpl.groovy)
+at org.codehaus.groovy.runtime.callsite.PogoInterceptableSite.call(PogoInterceptableSite.java:46)
+at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:166)
+at io.restassured.internal.filter.SendRequestFilter.filter(SendRequestFilter.groovy:30)
+at io.restassured.filter.Filter$filter$0.call(Unknown Source)
+at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:46)
+at io.restassured.filter.Filter$filter.call(Unknown Source)
+at io.restassured.internal.filter.FilterContextImpl.next(FilterContextImpl.groovy:72)
+at io.restassured.filter.time.TimingFilter.filter(TimingFilter.java:56)
+at io.restassured.filter.Filter$filter.call(Unknown Source)
+at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:46)
+at io.restassured.filter.Filter$filter$0.call(Unknown Source)
+at io.restassured.internal.filter.FilterContextImpl.next(FilterContextImpl.groovy:72)
+at io.restassured.filter.FilterContext$next.call(Unknown Source)
+at io.restassured.internal.RequestSpecificationImpl.applyPathParamsAndSendRequest(RequestSpecificationImpl.groovy:1686)
+at io.restassured.internal.RequestSpecificationImpl.this$2$applyPathParamsAndSendRequest(RequestSpecificationImpl.groovy)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+at org.codehaus.groovy.reflection.CachedMethod.invoke(CachedMethod.java:343)
+at groovy.lang.MetaMethod.doMethodInvoke(MetaMethod.java:328)
+at groovy.lang.MetaClassImpl.doInvokeMethod(MetaClassImpl.java:1369)
+at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1103)
+at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1009)
+at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:792)
+at io.restassured.internal.RequestSpecificationImpl.invokeMethod(RequestSpecificationImpl.groovy)
+at org.codehaus.groovy.runtime.callsite.PogoInterceptableSite.call(PogoInterceptableSite.java:46)
+at org.codehaus.groovy.runtime.callsite.PogoInterceptableSite.callCurrent(PogoInterceptableSite.java:57)
+at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callCurrent(AbstractCallSite.java:203)
+at io.restassured.internal.RequestSpecificationImpl.applyPathParamsAndSendRequest(RequestSpecificationImpl.groovy:1692)
+at io.restassured.internal.RequestSpecificationImpl.this$2$applyPathParamsAndSendRequest(RequestSpecificationImpl.groovy)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+at org.codehaus.groovy.reflection.CachedMethod.invoke(CachedMethod.java:343)
+at groovy.lang.MetaMethod.doMethodInvoke(MetaMethod.java:328)
+at groovy.lang.MetaClassImpl.doInvokeMethod(MetaClassImpl.java:1369)
+at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1103)
+at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1009)
+at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:792)
+at io.restassured.internal.RequestSpecificationImpl.invokeMethod(RequestSpecificationImpl.groovy)
+at org.codehaus.groovy.runtime.callsite.PogoInterceptableSite.call(PogoInterceptableSite.java:46)
+at org.codehaus.groovy.runtime.callsite.PogoInterceptableSite.callCurrent(PogoInterceptableSite.java:57)
+at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCallCurrent(CallSiteArray.java:50)
+at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callCurrent(AbstractCallSite.java:171)
+at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callCurrent(AbstractCallSite.java:203)
+at io.restassured.internal.RequestSpecificationImpl.delete(RequestSpecificationImpl.groovy:188)
+at io.restassured.internal.RequestSpecificationImpl.delete(RequestSpecificationImpl.groovy)
+at com.restAssured.JobsAPITest.TC_DeleteRequest_004.deleteJobsDetails(TC_DeleteRequest_004.java:43)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:135)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:673)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:220)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:945)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:193)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:808)
+at org.testng.TestRunner.run(TestRunner.java:603)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:429)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:423)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:383)
+at org.testng.SuiteRunner.run(SuiteRunner.java:326)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1249)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+at org.testng.TestNG.runSuites(TestNG.java:1092)
+at org.testng.TestNG.run(TestNG.java:1060)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.IllegalStateException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteJobsDetails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.restAssured.JobsAPITest.TC_DeleteRequest_004@5223e5ee]" started-at="2022-06-19T15:47:22 EDT" name="tearDown" finished-at="2022-06-19T15:47:22 EDT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.restAssured.JobsAPITest.TC_DeleteRequest_004 -->
+      <class name="com.restAssured.JobsAPITest.TC_GetRequest_001">
+        <test-method signature="getJobsData(java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_GetRequest_001@78aab498]" started-at="2022-06-19T15:47:15 EDT" name="getJobsData" data-provider="getData" finished-at="2022-06-19T15:47:15 EDT" duration-ms="17" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26171]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getJobsData -->
+        <test-method signature="getJobsData(java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_GetRequest_001@78aab498]" started-at="2022-06-19T15:47:16 EDT" name="getJobsData" data-provider="getData" finished-at="2022-06-19T15:47:16 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26172]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getJobsData -->
+        <test-method signature="getJobsData(java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_GetRequest_001@78aab498]" started-at="2022-06-19T15:47:16 EDT" name="getJobsData" data-provider="getData" finished-at="2022-06-19T15:47:16 EDT" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26173]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getJobsData -->
+        <test-method signature="getJobsData(java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_GetRequest_001@78aab498]" started-at="2022-06-19T15:47:16 EDT" name="getJobsData" data-provider="getData" finished-at="2022-06-19T15:47:16 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26174]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getJobsData -->
+        <test-method signature="getJobsData(java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_GetRequest_001@78aab498]" started-at="2022-06-19T15:47:16 EDT" name="getJobsData" data-provider="getData" finished-at="2022-06-19T15:47:16 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26175]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getJobsData -->
+        <test-method signature="getJobsData(java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_GetRequest_001@78aab498]" started-at="2022-06-19T15:47:16 EDT" name="getJobsData" data-provider="getData" finished-at="2022-06-19T15:47:16 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26176]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getJobsData -->
+        <test-method signature="getJobsData(java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_GetRequest_001@78aab498]" started-at="2022-06-19T15:47:16 EDT" name="getJobsData" data-provider="getData" finished-at="2022-06-19T15:47:16 EDT" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26177]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getJobsData -->
+        <test-method signature="getJobsData(java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_GetRequest_001@78aab498]" started-at="2022-06-19T15:47:16 EDT" name="getJobsData" data-provider="getData" finished-at="2022-06-19T15:47:16 EDT" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26178]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getJobsData -->
+        <test-method signature="getJobsData(java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_GetRequest_001@78aab498]" started-at="2022-06-19T15:47:16 EDT" name="getJobsData" data-provider="getData" finished-at="2022-06-19T15:47:16 EDT" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26179]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getJobsData -->
+        <test-method signature="getJobsData(java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_GetRequest_001@78aab498]" started-at="2022-06-19T15:47:16 EDT" name="getJobsData" data-provider="getData" finished-at="2022-06-19T15:47:16 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26180]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getJobsData -->
+        <test-method signature="getJobsDetials()[pri:0, instance:com.restAssured.JobsAPITest.TC_GetRequest_001@78aab498]" started-at="2022-06-19T15:47:16 EDT" name="getJobsDetials" finished-at="2022-06-19T15:47:17 EDT" duration-ms="1890" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getJobsDetials -->
+        <test-method signature="get1JobsDetails()[pri:0, instance:com.restAssured.JobsAPITest.TC_GetRequest_001@78aab498]" started-at="2022-06-19T15:47:17 EDT" name="get1JobsDetails" finished-at="2022-06-19T15:47:18 EDT" depends-on-methods="com.restAssured.JobsAPITest.TC_GetRequest_001.getJobsData" duration-ms="293" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get1JobsDetails -->
+      </class> <!-- com.restAssured.JobsAPITest.TC_GetRequest_001 -->
+      <class name="com.restAssured.JobsAPITest.TC_PutRequest_003">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.restAssured.JobsAPITest.TC_PutRequest_003@7ce3cb8e]" started-at="2022-06-19T15:47:21 EDT" name="setup" finished-at="2022-06-19T15:47:21 EDT" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="getRequest()[pri:0, instance:com.restAssured.JobsAPITest.TC_PutRequest_003@7ce3cb8e]" started-at="2022-06-19T15:47:21 EDT" name="getRequest" finished-at="2022-06-19T15:47:21 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRequest -->
+        <test-method signature="putJobsData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_PutRequest_003@7ce3cb8e]" started-at="2022-06-19T15:47:22 EDT" name="putJobsData" data-provider="Putdata" finished-at="2022-06-19T15:47:22 EDT" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26171]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Quality Assurance Analyst]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Infostretch Corp]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Tampa, FL, USA]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Contract, Full-time ]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1 hour]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Role: SDET Location: Remote job / Work for home Duration: 6 Months + Contract. Immediate interview / Urgent need Job Description:- The SDET is the person responsible for developing, implementing, and sustaining complex test automation using Agile automation techniques and tools. You will receive deep insight into the software development lifecycle along with freedom to complete your goals in your way. If you thrive in a fast-paced environment, operating at the tactical level.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putJobsData -->
+        <test-method signature="putJobsData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_PutRequest_003@7ce3cb8e]" started-at="2022-06-19T15:47:22 EDT" name="putJobsData" data-provider="Putdata" finished-at="2022-06-19T15:47:22 EDT" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26172]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Quality Assurance Analyst (SDET, Automated, Java)]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Infostretch Corp]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Remote ]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Contract, Full-time]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1 hour]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Title: Quality Assurance Analyst (SDET, Automated, Java, Python). They are expecting to return at the end of August and this role would sit onsite.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putJobsData -->
+        <test-method signature="putJobsData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_PutRequest_003@7ce3cb8e]" started-at="2022-06-19T15:47:22 EDT" name="putJobsData" data-provider="Putdata" finished-at="2022-06-19T15:47:22 EDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26173]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Quality Assurance Analyst ( Automated, Java)]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Infostretch Corp]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Tampa, FL, USA]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Contract, Full-time ]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1 hour]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Role: SDET Location: Remote job / Work for home Duration: 6 Months + Contract. Immediate interview / Urgent need Job Description:- The SDET is the person responsible for developing, implementing, and sustaining complex test automation using Agile automation techniques and tools. You will receive deep insight into the software development lifecycle along with freedom to complete your goals in your way. If you thrive in a fast-paced environment, operating at the tactical level.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putJobsData -->
+        <test-method signature="putJobsData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_PutRequest_003@7ce3cb8e]" started-at="2022-06-19T15:47:22 EDT" name="putJobsData" data-provider="Putdata" finished-at="2022-06-19T15:47:22 EDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26174]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Quality Assurance Analyst (SDET, Java)]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Infostretch Corp]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Tampa, FL, USA]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Contract, Full-time ]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1 hour]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Role: SDET Location: Remote job / Work for home Duration: 6 Months + Contract. Immediate interview / Urgent need Job Description:- The SDET is the person responsible for developing, implementing, and sustaining complex test automation using Agile automation techniques and tools. You will receive deep insight into the software development lifecycle along with freedom to complete your goals in your way. If you thrive in a fast-paced environment, operating at the tactical level.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putJobsData -->
+        <test-method signature="putJobsData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_PutRequest_003@7ce3cb8e]" started-at="2022-06-19T15:47:22 EDT" name="putJobsData" data-provider="Putdata" finished-at="2022-06-19T15:47:22 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26175]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Quality Assurance Analyst (API)]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Infostretch Corp]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Remote ]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Contract, Full-time]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1 hour]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Title: Quality Assurance Analyst (SDET, Automated, Java, Python). They are expecting to return at the end of August and this role would sit onsite.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putJobsData -->
+        <test-method signature="putJobsData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_PutRequest_003@7ce3cb8e]" started-at="2022-06-19T15:47:22 EDT" name="putJobsData" data-provider="Putdata" finished-at="2022-06-19T15:47:22 EDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26176]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Android Developer ]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Infostretch Corp]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Tampa, FL, USA]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Contract, Full-time ]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1 hour]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Role: SDET Location: Remote job / Work for home Duration: 6 Months + Contract. Immediate interview / Urgent need Job Description:- The SDET is the person responsible for developing, implementing, and sustaining complex test automation using Agile automation techniques and tools. You will receive deep insight into the software development lifecycle along with freedom to complete your goals in your way. If you thrive in a fast-paced environment, operating at the tactical level.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putJobsData -->
+        <test-method signature="putJobsData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_PutRequest_003@7ce3cb8e]" started-at="2022-06-19T15:47:22 EDT" name="putJobsData" data-provider="Putdata" finished-at="2022-06-19T15:47:22 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26177]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ios Developer ]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Infostretch Corp]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Tampa, FL, USA]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Contract, Full-time ]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1 hour]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Role: SDET Location: Remote job / Work for home Duration: 6 Months + Contract. Immediate interview / Urgent need Job Description:- The SDET is the person responsible for developing, implementing, and sustaining complex test automation using Agile automation techniques and tools. You will receive deep insight into the software development lifecycle along with freedom to complete your goals in your way. If you thrive in a fast-paced environment, operating at the tactical level.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putJobsData -->
+        <test-method signature="putJobsData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_PutRequest_003@7ce3cb8e]" started-at="2022-06-19T15:47:22 EDT" name="putJobsData" data-provider="Putdata" finished-at="2022-06-19T15:47:22 EDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26178]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Analyst ]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Infostretch Corp]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Remote ]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Contract, Full-time]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1 hour]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Title: Quality Assurance Analyst (SDET, Automated, Java, Python). They are expecting to return at the end of August and this role would sit onsite.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putJobsData -->
+        <test-method signature="putJobsData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_PutRequest_003@7ce3cb8e]" started-at="2022-06-19T15:47:22 EDT" name="putJobsData" data-provider="Putdata" finished-at="2022-06-19T15:47:22 EDT" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26179]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Marketer]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Infostretch Corp]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Tampa, FL, USA]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Contract, Full-time ]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1 hour]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Role: SDET Location: Remote job / Work for home Duration: 6 Months + Contract. Immediate interview / Urgent need Job Description:- The SDET is the person responsible for developing, implementing, and sustaining complex test automation using Agile automation techniques and tools. You will receive deep insight into the software development lifecycle along with freedom to complete your goals in your way. If you thrive in a fast-paced environment, operating at the tactical level.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putJobsData -->
+        <test-method signature="putJobsData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_PutRequest_003@7ce3cb8e]" started-at="2022-06-19T15:47:22 EDT" name="putJobsData" data-provider="Putdata" finished-at="2022-06-19T15:47:22 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26180]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Social media marketing  ]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Infostretch Corp]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Tampa, FL, USA]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Contract, Full-time ]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1 hour]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Role: SDET Location: Remote job / Work for home Duration: 6 Months + Contract. Immediate interview / Urgent need Job Description:- The SDET is the person responsible for developing, implementing, and sustaining complex test automation using Agile automation techniques and tools. You will receive deep insight into the software development lifecycle along with freedom to complete your goals in your way. If you thrive in a fast-paced environment, operating at the tactical level.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putJobsData -->
+        <test-method signature="putJobsData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_PutRequest_003@7ce3cb8e]" started-at="2022-06-19T15:47:22 EDT" name="putJobsData" data-provider="Putdata" finished-at="2022-06-19T15:47:22 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26181]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Blogger]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Infostretch Corp]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Remote ]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Contract, Full-time]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1 hour]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Title: Quality Assurance Analyst (SDET, Automated, Java, Python). They are expecting to return at the end of August and this role would sit onsite.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putJobsData -->
+        <test-method signature="putJobsData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_PutRequest_003@7ce3cb8e]" started-at="2022-06-19T15:47:22 EDT" name="putJobsData" data-provider="Putdata" finished-at="2022-06-19T15:47:22 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26182]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Quality Assurance Analyst (API)]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Infostretch Corp]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Tampa, FL, USA]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Contract, Full-time ]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1 hour]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Role: SDET Location: Remote job / Work for home Duration: 6 Months + Contract. Immediate interview / Urgent need Job Description:- The SDET is the person responsible for developing, implementing, and sustaining complex test automation using Agile automation techniques and tools. You will receive deep insight into the software development lifecycle along with freedom to complete your goals in your way. If you thrive in a fast-paced environment, operating at the tactical level.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putJobsData -->
+        <test-method signature="putJobsData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_PutRequest_003@7ce3cb8e]" started-at="2022-06-19T15:47:22 EDT" name="putJobsData" data-provider="Putdata" finished-at="2022-06-19T15:47:22 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putJobsData -->
+        <test-method signature="putJobsData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_PutRequest_003@7ce3cb8e]" started-at="2022-06-19T15:47:22 EDT" name="putJobsData" data-provider="Putdata" finished-at="2022-06-19T15:47:22 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putJobsData -->
+        <test-method signature="putJobsData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_PutRequest_003@7ce3cb8e]" started-at="2022-06-19T15:47:22 EDT" name="putJobsData" data-provider="Putdata" finished-at="2022-06-19T15:47:22 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putJobsData -->
+        <test-method signature="putJobsData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_PutRequest_003@7ce3cb8e]" started-at="2022-06-19T15:47:22 EDT" name="putJobsData" data-provider="Putdata" finished-at="2022-06-19T15:47:22 EDT" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putJobsData -->
+        <test-method signature="putJobsData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_PutRequest_003@7ce3cb8e]" started-at="2022-06-19T15:47:22 EDT" name="putJobsData" data-provider="Putdata" finished-at="2022-06-19T15:47:22 EDT" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putJobsData -->
+        <test-method signature="putJobsData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_PutRequest_003@7ce3cb8e]" started-at="2022-06-19T15:47:22 EDT" name="putJobsData" data-provider="Putdata" finished-at="2022-06-19T15:47:22 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putJobsData -->
+        <test-method signature="putJobsData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_PutRequest_003@7ce3cb8e]" started-at="2022-06-19T15:47:22 EDT" name="putJobsData" data-provider="Putdata" finished-at="2022-06-19T15:47:22 EDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putJobsData -->
+        <test-method signature="postJobsDetails()[pri:0, instance:com.restAssured.JobsAPITest.TC_PutRequest_003@7ce3cb8e]" started-at="2022-06-19T15:47:22 EDT" name="postJobsDetails" finished-at="2022-06-19T15:47:22 EDT" depends-on-methods="com.restAssured.JobsAPITest.TC_PutRequest_003.putJobsData" duration-ms="34" status="FAIL">
+          <exception class="java.lang.IllegalStateException">
+            <message>
+              <![CDATA[Target host is null]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.IllegalStateException: Target host is null
+at org.apache.http.util.Asserts.notNull(Asserts.java:52)
+at org.apache.http.impl.conn.ProxySelectorRoutePlanner.determineRoute(ProxySelectorRoutePlanner.java:133)
+at org.apache.http.impl.client.DefaultRequestDirector.determineRoute(DefaultRequestDirector.java:756)
+at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:375)
+at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:835)
+at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+at io.restassured.internal.RestAssuredHttpBuilder.doRequest(RestAssuredHttpBuilder.java:141)
+at io.restassured.internal.http.HTTPBuilder.doRequest(HTTPBuilder.java:496)
+at io.restassured.internal.http.HTTPBuilder.request(HTTPBuilder.java:453)
+at io.restassured.internal.http.HTTPBuilder$request$2.call(Unknown Source)
+at io.restassured.internal.RequestSpecificationImpl.sendHttpRequest(RequestSpecificationImpl.groovy:1466)
+at io.restassured.internal.RequestSpecificationImpl.this$2$sendHttpRequest(RequestSpecificationImpl.groovy)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+at org.codehaus.groovy.reflection.CachedMethod.invoke(CachedMethod.java:343)
+at groovy.lang.MetaMethod.doMethodInvoke(MetaMethod.java:328)
+at groovy.lang.MetaClassImpl.doInvokeMethod(MetaClassImpl.java:1369)
+at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1103)
+at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1009)
+at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:792)
+at io.restassured.internal.RequestSpecificationImpl.invokeMethod(RequestSpecificationImpl.groovy)
+at org.codehaus.groovy.runtime.callsite.PogoInterceptableSite.call(PogoInterceptableSite.java:46)
+at org.codehaus.groovy.runtime.callsite.PogoInterceptableSite.callCurrent(PogoInterceptableSite.java:57)
+at io.restassured.internal.RequestSpecificationImpl.sendRequest(RequestSpecificationImpl.groovy:1215)
+at io.restassured.internal.RequestSpecificationImpl.this$2$sendRequest(RequestSpecificationImpl.groovy)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+at org.codehaus.groovy.reflection.CachedMethod.invoke(CachedMethod.java:343)
+at groovy.lang.MetaMethod.doMethodInvoke(MetaMethod.java:328)
+at groovy.lang.MetaClassImpl.doInvokeMethod(MetaClassImpl.java:1369)
+at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1103)
+at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1009)
+at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:792)
+at io.restassured.internal.RequestSpecificationImpl.invokeMethod(RequestSpecificationImpl.groovy)
+at org.codehaus.groovy.runtime.callsite.PogoInterceptableSite.call(PogoInterceptableSite.java:46)
+at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:166)
+at io.restassured.internal.filter.SendRequestFilter.filter(SendRequestFilter.groovy:30)
+at io.restassured.filter.Filter$filter$0.call(Unknown Source)
+at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:46)
+at io.restassured.filter.Filter$filter.call(Unknown Source)
+at io.restassured.internal.filter.FilterContextImpl.next(FilterContextImpl.groovy:72)
+at io.restassured.filter.time.TimingFilter.filter(TimingFilter.java:56)
+at io.restassured.filter.Filter$filter.call(Unknown Source)
+at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:46)
+at io.restassured.filter.Filter$filter$0.call(Unknown Source)
+at io.restassured.internal.filter.FilterContextImpl.next(FilterContextImpl.groovy:72)
+at io.restassured.filter.FilterContext$next.call(Unknown Source)
+at io.restassured.internal.RequestSpecificationImpl.applyPathParamsAndSendRequest(RequestSpecificationImpl.groovy:1686)
+at io.restassured.internal.RequestSpecificationImpl.this$2$applyPathParamsAndSendRequest(RequestSpecificationImpl.groovy)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+at org.codehaus.groovy.reflection.CachedMethod.invoke(CachedMethod.java:343)
+at groovy.lang.MetaMethod.doMethodInvoke(MetaMethod.java:328)
+at groovy.lang.MetaClassImpl.doInvokeMethod(MetaClassImpl.java:1369)
+at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1103)
+at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1009)
+at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:792)
+at io.restassured.internal.RequestSpecificationImpl.invokeMethod(RequestSpecificationImpl.groovy)
+at org.codehaus.groovy.runtime.callsite.PogoInterceptableSite.call(PogoInterceptableSite.java:46)
+at org.codehaus.groovy.runtime.callsite.PogoInterceptableSite.callCurrent(PogoInterceptableSite.java:57)
+at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callCurrent(AbstractCallSite.java:203)
+at io.restassured.internal.RequestSpecificationImpl.applyPathParamsAndSendRequest(RequestSpecificationImpl.groovy:1692)
+at io.restassured.internal.RequestSpecificationImpl.this$2$applyPathParamsAndSendRequest(RequestSpecificationImpl.groovy)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+at org.codehaus.groovy.reflection.CachedMethod.invoke(CachedMethod.java:343)
+at groovy.lang.MetaMethod.doMethodInvoke(MetaMethod.java:328)
+at groovy.lang.MetaClassImpl.doInvokeMethod(MetaClassImpl.java:1369)
+at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1103)
+at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1009)
+at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:792)
+at io.restassured.internal.RequestSpecificationImpl.invokeMethod(RequestSpecificationImpl.groovy)
+at org.codehaus.groovy.runtime.callsite.PogoInterceptableSite.call(PogoInterceptableSite.java:46)
+at org.codehaus.groovy.runtime.callsite.PogoInterceptableSite.callCurrent(PogoInterceptableSite.java:57)
+at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCallCurrent(CallSiteArray.java:50)
+at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callCurrent(AbstractCallSite.java:171)
+at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callCurrent(AbstractCallSite.java:203)
+at io.restassured.internal.RequestSpecificationImpl.put(RequestSpecificationImpl.groovy:184)
+at io.restassured.internal.RequestSpecificationImpl.put(RequestSpecificationImpl.groovy)
+at com.restAssured.JobsAPITest.TC_PutRequest_003.postJobsDetails(TC_PutRequest_003.java:47)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:135)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:673)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:220)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:945)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:193)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:808)
+at org.testng.TestRunner.run(TestRunner.java:603)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:429)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:423)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:383)
+at org.testng.SuiteRunner.run(SuiteRunner.java:326)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1249)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+at org.testng.TestNG.runSuites(TestNG.java:1092)
+at org.testng.TestNG.run(TestNG.java:1060)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.IllegalStateException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJobsDetails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.restAssured.JobsAPITest.TC_PutRequest_003@7ce3cb8e]" started-at="2022-06-19T15:47:22 EDT" name="tearDown" finished-at="2022-06-19T15:47:22 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.restAssured.JobsAPITest.TC_PutRequest_003 -->
+      <class name="com.restAssured.JobsAPITest.TC_PostRequest_002">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.restAssured.JobsAPITest.TC_PostRequest_002@6ef888f6]" started-at="2022-06-19T15:47:18 EDT" name="setup" finished-at="2022-06-19T15:47:18 EDT" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="postRequest()[pri:0, instance:com.restAssured.JobsAPITest.TC_PostRequest_002@6ef888f6]" started-at="2022-06-19T15:47:18 EDT" name="postRequest" finished-at="2022-06-19T15:47:18 EDT" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postRequest -->
+        <test-method signature="postJobsData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_PostRequest_002@6ef888f6]" started-at="2022-06-19T15:47:20 EDT" name="postJobsData" data-provider="PostData" finished-at="2022-06-19T15:47:20 EDT" duration-ms="30" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26171]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Quality Assurance Analyst]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Infostretch Corp]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Tampa, FL, USA]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Contract, Full-time ]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[44 minutes ago]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Role: SDET Location: Remote job / Work for home Duration: 6 Months + Contract. Immediate interview / Urgent need Job Description:- The SDET is the person responsible for developing, implementing, and sustaining complex test automation using Agile automation techniques and tools. You will receive deep insight into the software development lifecycle along with freedom to complete your goals in your way. If you thrive in a fast-paced environment, operating at the tactical level.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJobsData -->
+        <test-method signature="postJobsData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_PostRequest_002@6ef888f6]" started-at="2022-06-19T15:47:20 EDT" name="postJobsData" data-provider="PostData" finished-at="2022-06-19T15:47:20 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26172]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Quality Assurance Analyst (SDET, Automated, Java)]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Infostretch Corp]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Remote ]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Contract, Full-time]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[5 Hour ago]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Title: Quality Assurance Analyst (SDET, Automated, Java, Python). They are expecting to return at the end of August and this role would sit onsite.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJobsData -->
+        <test-method signature="postJobsData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_PostRequest_002@6ef888f6]" started-at="2022-06-19T15:47:20 EDT" name="postJobsData" data-provider="PostData" finished-at="2022-06-19T15:47:20 EDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26173]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Quality Assurance Analyst ( Automated, Java)]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Infostretch Corp]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Tampa, FL, USA]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Contract, Full-time ]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[44 minutes ago]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Role: SDET Location: Remote job / Work for home Duration: 6 Months + Contract. Immediate interview / Urgent need Job Description:- The SDET is the person responsible for developing, implementing, and sustaining complex test automation using Agile automation techniques and tools. You will receive deep insight into the software development lifecycle along with freedom to complete your goals in your way. If you thrive in a fast-paced environment, operating at the tactical level.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJobsData -->
+        <test-method signature="postJobsData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_PostRequest_002@6ef888f6]" started-at="2022-06-19T15:47:20 EDT" name="postJobsData" data-provider="PostData" finished-at="2022-06-19T15:47:20 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26174]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Quality Assurance Analyst (SDET, Java)]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Infostretch Corp]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Tampa, FL, USA]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Contract, Full-time ]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[44 minutes ago]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Role: SDET Location: Remote job / Work for home Duration: 6 Months + Contract. Immediate interview / Urgent need Job Description:- The SDET is the person responsible for developing, implementing, and sustaining complex test automation using Agile automation techniques and tools. You will receive deep insight into the software development lifecycle along with freedom to complete your goals in your way. If you thrive in a fast-paced environment, operating at the tactical level.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJobsData -->
+        <test-method signature="postJobsData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_PostRequest_002@6ef888f6]" started-at="2022-06-19T15:47:20 EDT" name="postJobsData" data-provider="PostData" finished-at="2022-06-19T15:47:20 EDT" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26175]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Quality Assurance Analyst (API)]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Infostretch Corp]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Remote ]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Contract, Full-time]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[5 Hour ago]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Title: Quality Assurance Analyst (SDET, Automated, Java, Python). They are expecting to return at the end of August and this role would sit onsite.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJobsData -->
+        <test-method signature="postJobsData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_PostRequest_002@6ef888f6]" started-at="2022-06-19T15:47:20 EDT" name="postJobsData" data-provider="PostData" finished-at="2022-06-19T15:47:20 EDT" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26176]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Android Developer ]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Infostretch Corp]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Tampa, FL, USA]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Contract, Full-time ]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[44 minutes ago]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Role: SDET Location: Remote job / Work for home Duration: 6 Months + Contract. Immediate interview / Urgent need Job Description:- The SDET is the person responsible for developing, implementing, and sustaining complex test automation using Agile automation techniques and tools. You will receive deep insight into the software development lifecycle along with freedom to complete your goals in your way. If you thrive in a fast-paced environment, operating at the tactical level.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJobsData -->
+        <test-method signature="postJobsData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_PostRequest_002@6ef888f6]" started-at="2022-06-19T15:47:20 EDT" name="postJobsData" data-provider="PostData" finished-at="2022-06-19T15:47:20 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26177]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ios Developer ]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Infostretch Corp]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Tampa, FL, USA]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Contract, Full-time ]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[44 minutes ago]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Role: SDET Location: Remote job / Work for home Duration: 6 Months + Contract. Immediate interview / Urgent need Job Description:- The SDET is the person responsible for developing, implementing, and sustaining complex test automation using Agile automation techniques and tools. You will receive deep insight into the software development lifecycle along with freedom to complete your goals in your way. If you thrive in a fast-paced environment, operating at the tactical level.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJobsData -->
+        <test-method signature="postJobsData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_PostRequest_002@6ef888f6]" started-at="2022-06-19T15:47:20 EDT" name="postJobsData" data-provider="PostData" finished-at="2022-06-19T15:47:20 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26178]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Analyst ]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Infostretch Corp]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Remote ]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Contract, Full-time]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[5 Hour ago]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Title: Quality Assurance Analyst (SDET, Automated, Java, Python). They are expecting to return at the end of August and this role would sit onsite.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJobsData -->
+        <test-method signature="postJobsData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_PostRequest_002@6ef888f6]" started-at="2022-06-19T15:47:20 EDT" name="postJobsData" data-provider="PostData" finished-at="2022-06-19T15:47:20 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26179]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Marketer]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Infostretch Corp]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Tampa, FL, USA]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Contract, Full-time ]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[44 minutes ago]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Role: SDET Location: Remote job / Work for home Duration: 6 Months + Contract. Immediate interview / Urgent need Job Description:- The SDET is the person responsible for developing, implementing, and sustaining complex test automation using Agile automation techniques and tools. You will receive deep insight into the software development lifecycle along with freedom to complete your goals in your way. If you thrive in a fast-paced environment, operating at the tactical level.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJobsData -->
+        <test-method signature="postJobsData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_PostRequest_002@6ef888f6]" started-at="2022-06-19T15:47:20 EDT" name="postJobsData" data-provider="PostData" finished-at="2022-06-19T15:47:20 EDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26180]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Social media marketing  ]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Infostretch Corp]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Tampa, FL, USA]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Contract, Full-time ]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[44 minutes ago]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Role: SDET Location: Remote job / Work for home Duration: 6 Months + Contract. Immediate interview / Urgent need Job Description:- The SDET is the person responsible for developing, implementing, and sustaining complex test automation using Agile automation techniques and tools. You will receive deep insight into the software development lifecycle along with freedom to complete your goals in your way. If you thrive in a fast-paced environment, operating at the tactical level.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJobsData -->
+        <test-method signature="postJobsData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_PostRequest_002@6ef888f6]" started-at="2022-06-19T15:47:20 EDT" name="postJobsData" data-provider="PostData" finished-at="2022-06-19T15:47:20 EDT" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26181]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Blogger]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Infostretch Corp]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Remote ]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Contract, Full-time]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[5 Hour ago]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Title: Quality Assurance Analyst (SDET, Automated, Java, Python). They are expecting to return at the end of August and this role would sit onsite.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJobsData -->
+        <test-method signature="postJobsData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_PostRequest_002@6ef888f6]" started-at="2022-06-19T15:47:20 EDT" name="postJobsData" data-provider="PostData" finished-at="2022-06-19T15:47:20 EDT" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26182]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Quality Assurance Analyst (API)]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Infostretch Corp]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Tampa, FL, USA]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Contract, Full-time ]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[44 minutes ago]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Role: SDET Location: Remote job / Work for home Duration: 6 Months + Contract. Immediate interview / Urgent need Job Description:- The SDET is the person responsible for developing, implementing, and sustaining complex test automation using Agile automation techniques and tools. You will receive deep insight into the software development lifecycle along with freedom to complete your goals in your way. If you thrive in a fast-paced environment, operating at the tactical level.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJobsData -->
+        <test-method signature="postJobsData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_PostRequest_002@6ef888f6]" started-at="2022-06-19T15:47:20 EDT" name="postJobsData" data-provider="PostData" finished-at="2022-06-19T15:47:20 EDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26183]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Android Developer ]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Infostretch Corp]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Tampa, FL, USA]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Contract, Full-time ]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[44 minutes ago]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Role: SDET Location: Remote job / Work for home Duration: 6 Months + Contract. Immediate interview / Urgent need Job Description:- The SDET is the person responsible for developing, implementing, and sustaining complex test automation using Agile automation techniques and tools. You will receive deep insight into the software development lifecycle along with freedom to complete your goals in your way. If you thrive in a fast-paced environment, operating at the tactical level.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJobsData -->
+        <test-method signature="postJobsData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_PostRequest_002@6ef888f6]" started-at="2022-06-19T15:47:20 EDT" name="postJobsData" data-provider="PostData" finished-at="2022-06-19T15:47:20 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26184]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ios Developer ]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Infostretch Corp]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Remote ]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Contract, Full-time]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[5 Hour ago]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Title: Quality Assurance Analyst (SDET, Automated, Java, Python). They are expecting to return at the end of August and this role would sit onsite.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJobsData -->
+        <test-method signature="postJobsData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_PostRequest_002@6ef888f6]" started-at="2022-06-19T15:47:20 EDT" name="postJobsData" data-provider="PostData" finished-at="2022-06-19T15:47:20 EDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26185]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Quality Assurance Analyst]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Infostretch Corp]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Tampa, FL, USA]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Contract, Full-time ]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[44 minutes ago]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Role: SDET Location: Remote job / Work for home Duration: 6 Months + Contract. Immediate interview / Urgent need Job Description:- The SDET is the person responsible for developing, implementing, and sustaining complex test automation using Agile automation techniques and tools. You will receive deep insight into the software development lifecycle along with freedom to complete your goals in your way. If you thrive in a fast-paced environment, operating at the tactical level.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJobsData -->
+        <test-method signature="postJobsData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_PostRequest_002@6ef888f6]" started-at="2022-06-19T15:47:20 EDT" name="postJobsData" data-provider="PostData" finished-at="2022-06-19T15:47:20 EDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26186]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Quality Assurance Analyst (SDET, Automated, Java)]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Infostretch Corp]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Tampa, FL, USA]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Contract, Full-time ]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[44 minutes ago]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Role: SDET Location: Remote job / Work for home Duration: 6 Months + Contract. Immediate interview / Urgent need Job Description:- The SDET is the person responsible for developing, implementing, and sustaining complex test automation using Agile automation techniques and tools. You will receive deep insight into the software development lifecycle along with freedom to complete your goals in your way. If you thrive in a fast-paced environment, operating at the tactical level.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJobsData -->
+        <test-method signature="postJobsData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_PostRequest_002@6ef888f6]" started-at="2022-06-19T15:47:20 EDT" name="postJobsData" data-provider="PostData" finished-at="2022-06-19T15:47:20 EDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26187]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Quality Assurance Analyst ( Automated, Java)]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Infostretch Corp]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Remote ]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Contract, Full-time]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[5 Hour ago]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Title: Quality Assurance Analyst (SDET, Automated, Java, Python). They are expecting to return at the end of August and this role would sit onsite.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJobsData -->
+        <test-method signature="postJobsData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_PostRequest_002@6ef888f6]" started-at="2022-06-19T15:47:20 EDT" name="postJobsData" data-provider="PostData" finished-at="2022-06-19T15:47:20 EDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26188]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Quality Assurance Analyst (SDET, Java)]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Infostretch Corp]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Tampa, FL, USA]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Contract, Full-time ]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[44 minutes ago]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Role: SDET Location: Remote job / Work for home Duration: 6 Months + Contract. Immediate interview / Urgent need Job Description:- The SDET is the person responsible for developing, implementing, and sustaining complex test automation using Agile automation techniques and tools. You will receive deep insight into the software development lifecycle along with freedom to complete your goals in your way. If you thrive in a fast-paced environment, operating at the tactical level.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJobsData -->
+        <test-method signature="postJobsData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_PostRequest_002@6ef888f6]" started-at="2022-06-19T15:47:20 EDT" name="postJobsData" data-provider="PostData" finished-at="2022-06-19T15:47:20 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26189]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Quality Assurance Analyst (API)]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Infostretch Corp]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Tampa, FL, USA]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Contract, Full-time ]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[44 minutes ago]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Role: SDET Location: Remote job / Work for home Duration: 6 Months + Contract. Immediate interview / Urgent need Job Description:- The SDET is the person responsible for developing, implementing, and sustaining complex test automation using Agile automation techniques and tools. You will receive deep insight into the software development lifecycle along with freedom to complete your goals in your way. If you thrive in a fast-paced environment, operating at the tactical level.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJobsData -->
+        <test-method signature="postJobsData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_PostRequest_002@6ef888f6]" started-at="2022-06-19T15:47:20 EDT" name="postJobsData" data-provider="PostData" finished-at="2022-06-19T15:47:20 EDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26190]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Quality Assurance Analyst (API)]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Infostretch Corp]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Tampa, FL, USA]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Contract, Full-time ]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[44 minutes ago]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Role: SDET Location: Remote job / Work for home Duration: 6 Months + Contract. Immediate interview / Urgent need Job Description:- The SDET is the person responsible for developing, implementing, and sustaining complex test automation using Agile automation techniques and tools. You will receive deep insight into the software development lifecycle along with freedom to complete your goals in your way. If you thrive in a fast-paced environment, operating at the tactical level.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJobsData -->
+        <test-method signature="postJobsData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_PostRequest_002@6ef888f6]" started-at="2022-06-19T15:47:20 EDT" name="postJobsData" data-provider="PostData" finished-at="2022-06-19T15:47:20 EDT" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26191]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Quality Assurance Analyst (API)]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Infostretch Corp]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Tampa, FL, USA]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Contract, Full-time ]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[44 minutes ago]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Role: SDET Location: Remote job / Work for home Duration: 6 Months + Contract. Immediate interview / Urgent need Job Description:- The SDET is the person responsible for developing, implementing, and sustaining complex test automation using Agile automation techniques and tools. You will receive deep insight into the software development lifecycle along with freedom to complete your goals in your way. If you thrive in a fast-paced environment, operating at the tactical level.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJobsData -->
+        <test-method signature="postJobsData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_PostRequest_002@6ef888f6]" started-at="2022-06-19T15:47:20 EDT" name="postJobsData" data-provider="PostData" finished-at="2022-06-19T15:47:20 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26192]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Quality Assurance Analyst (API)]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Infostretch Corp]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Tampa, FL, USA]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Contract, Full-time ]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[44 minutes ago]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Role: SDET Location: Remote job / Work for home Duration: 6 Months + Contract. Immediate interview / Urgent need Job Description:- The SDET is the person responsible for developing, implementing, and sustaining complex test automation using Agile automation techniques and tools. You will receive deep insight into the software development lifecycle along with freedom to complete your goals in your way. If you thrive in a fast-paced environment, operating at the tactical level.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJobsData -->
+        <test-method signature="postJobsData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_PostRequest_002@6ef888f6]" started-at="2022-06-19T15:47:20 EDT" name="postJobsData" data-provider="PostData" finished-at="2022-06-19T15:47:20 EDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26193]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Quality Assurance Analyst (API)]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Infostretch Corp]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Tampa, FL, USA]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Contract, Full-time ]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[44 minutes ago]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Role: SDET Location: Remote job / Work for home Duration: 6 Months + Contract. Immediate interview / Urgent need Job Description:- The SDET is the person responsible for developing, implementing, and sustaining complex test automation using Agile automation techniques and tools. You will receive deep insight into the software development lifecycle along with freedom to complete your goals in your way. If you thrive in a fast-paced environment, operating at the tactical level.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJobsData -->
+        <test-method signature="postJobsData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_PostRequest_002@6ef888f6]" started-at="2022-06-19T15:47:20 EDT" name="postJobsData" data-provider="PostData" finished-at="2022-06-19T15:47:20 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26195]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Quality Assurance Analyst (API)]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Infostretch Corp]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Tampa, FL, USA]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Contract, Full-time ]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[44 minutes ago]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Role: SDET Location: Remote job / Work for home Duration: 6 Months + Contract. Immediate interview / Urgent need Job Description:- The SDET is the person responsible for developing, implementing, and sustaining complex test automation using Agile automation techniques and tools. You will receive deep insight into the software development lifecycle along with freedom to complete your goals in your way. If you thrive in a fast-paced environment, operating at the tactical level.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJobsData -->
+        <test-method signature="postJobsData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_PostRequest_002@6ef888f6]" started-at="2022-06-19T15:47:20 EDT" name="postJobsData" data-provider="PostData" finished-at="2022-06-19T15:47:20 EDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26194]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Quality Assurance Analyst (API)]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Infostretch Corp]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Tampa, FL, USA]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Contract, Full-time ]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[44 minutes ago]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Role: SDET Location: Remote job / Work for home Duration: 6 Months + Contract. Immediate interview / Urgent need Job Description:- The SDET is the person responsible for developing, implementing, and sustaining complex test automation using Agile automation techniques and tools. You will receive deep insight into the software development lifecycle along with freedom to complete your goals in your way. If you thrive in a fast-paced environment, operating at the tactical level.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJobsData -->
+        <test-method signature="postJobsData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_PostRequest_002@6ef888f6]" started-at="2022-06-19T15:47:20 EDT" name="postJobsData" data-provider="PostData" finished-at="2022-06-19T15:47:20 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26196]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Quality Assurance Analyst (API)]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Infostretch Corp]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Tampa, FL, USA]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Contract, Full-time ]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[44 minutes ago]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Role: SDET Location: Remote job / Work for home Duration: 6 Months + Contract. Immediate interview / Urgent need Job Description:- The SDET is the person responsible for developing, implementing, and sustaining complex test automation using Agile automation techniques and tools. You will receive deep insight into the software development lifecycle along with freedom to complete your goals in your way. If you thrive in a fast-paced environment, operating at the tactical level.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJobsData -->
+        <test-method signature="postJobsData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_PostRequest_002@6ef888f6]" started-at="2022-06-19T15:47:20 EDT" name="postJobsData" data-provider="PostData" finished-at="2022-06-19T15:47:20 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26197]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Quality Assurance Analyst (API)]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Infostretch Corp]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Tampa, FL, USA]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Contract, Full-time ]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[44 minutes ago]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Role: SDET Location: Remote job / Work for home Duration: 6 Months + Contract. Immediate interview / Urgent need Job Description:- The SDET is the person responsible for developing, implementing, and sustaining complex test automation using Agile automation techniques and tools. You will receive deep insight into the software development lifecycle along with freedom to complete your goals in your way. If you thrive in a fast-paced environment, operating at the tactical level.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJobsData -->
+        <test-method signature="postJobsData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_PostRequest_002@6ef888f6]" started-at="2022-06-19T15:47:20 EDT" name="postJobsData" data-provider="PostData" finished-at="2022-06-19T15:47:20 EDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26198]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Quality Assurance Analyst (API)]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Infostretch Corp]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Tampa, FL, USA]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Contract, Full-time ]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[44 minutes ago]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Role: SDET Location: Remote job / Work for home Duration: 6 Months + Contract. Immediate interview / Urgent need Job Description:- The SDET is the person responsible for developing, implementing, and sustaining complex test automation using Agile automation techniques and tools. You will receive deep insight into the software development lifecycle along with freedom to complete your goals in your way. If you thrive in a fast-paced environment, operating at the tactical level.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJobsData -->
+        <test-method signature="postJobsData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_PostRequest_002@6ef888f6]" started-at="2022-06-19T15:47:20 EDT" name="postJobsData" data-provider="PostData" finished-at="2022-06-19T15:47:20 EDT" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26199]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Quality Assurance Analyst (API)]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Infostretch Corp]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Tampa, FL, USA]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Contract, Full-time ]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[44 minutes ago]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Role: SDET Location: Remote job / Work for home Duration: 6 Months + Contract. Immediate interview / Urgent need Job Description:- The SDET is the person responsible for developing, implementing, and sustaining complex test automation using Agile automation techniques and tools. You will receive deep insight into the software development lifecycle along with freedom to complete your goals in your way. If you thrive in a fast-paced environment, operating at the tactical level.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJobsData -->
+        <test-method signature="postJobsData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_PostRequest_002@6ef888f6]" started-at="2022-06-19T15:47:20 EDT" name="postJobsData" data-provider="PostData" finished-at="2022-06-19T15:47:20 EDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26200]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Quality Assurance Analyst (API)]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Infostretch Corp]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Tampa, FL, USA]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Contract, Full-time ]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[44 minutes ago]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Role: SDET Location: Remote job / Work for home Duration: 6 Months + Contract. Immediate interview / Urgent need Job Description:- The SDET is the person responsible for developing, implementing, and sustaining complex test automation using Agile automation techniques and tools. You will receive deep insight into the software development lifecycle along with freedom to complete your goals in your way. If you thrive in a fast-paced environment, operating at the tactical level.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJobsData -->
+        <test-method signature="postJobsData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_PostRequest_002@6ef888f6]" started-at="2022-06-19T15:47:20 EDT" name="postJobsData" data-provider="PostData" finished-at="2022-06-19T15:47:20 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26201]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Quality Assurance Analyst (API)]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Infostretch Corp]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Tampa, FL, USA]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Contract, Full-time ]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[44 minutes ago]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Role: SDET Location: Remote job / Work for home Duration: 6 Months + Contract. Immediate interview / Urgent need Job Description:- The SDET is the person responsible for developing, implementing, and sustaining complex test automation using Agile automation techniques and tools. You will receive deep insight into the software development lifecycle along with freedom to complete your goals in your way. If you thrive in a fast-paced environment, operating at the tactical level.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJobsData -->
+        <test-method signature="postJobsData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_PostRequest_002@6ef888f6]" started-at="2022-06-19T15:47:20 EDT" name="postJobsData" data-provider="PostData" finished-at="2022-06-19T15:47:20 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26202]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Quality Assurance Analyst (API)]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Infostretch Corp]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Tampa, FL, USA]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Contract, Full-time ]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[44 minutes ago]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Role: SDET Location: Remote job / Work for home Duration: 6 Months + Contract. Immediate interview / Urgent need Job Description:- The SDET is the person responsible for developing, implementing, and sustaining complex test automation using Agile automation techniques and tools. You will receive deep insight into the software development lifecycle along with freedom to complete your goals in your way. If you thrive in a fast-paced environment, operating at the tactical level.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJobsData -->
+        <test-method signature="postJobsData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_PostRequest_002@6ef888f6]" started-at="2022-06-19T15:47:20 EDT" name="postJobsData" data-provider="PostData" finished-at="2022-06-19T15:47:20 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26203]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Quality Assurance Analyst (API)]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Infostretch Corp]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Tampa, FL, USA]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Contract, Full-time ]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[44 minutes ago]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Role: SDET Location: Remote job / Work for home Duration: 6 Months + Contract. Immediate interview / Urgent need Job Description:- The SDET is the person responsible for developing, implementing, and sustaining complex test automation using Agile automation techniques and tools. You will receive deep insight into the software development lifecycle along with freedom to complete your goals in your way. If you thrive in a fast-paced environment, operating at the tactical level.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJobsData -->
+        <test-method signature="postJobsData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.JobsAPITest.TC_PostRequest_002@6ef888f6]" started-at="2022-06-19T15:47:20 EDT" name="postJobsData" data-provider="PostData" finished-at="2022-06-19T15:47:20 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26204]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Quality Assurance Analyst (API)]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Infostretch Corp]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Tampa, FL, USA]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Contract, Full-time ]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[44 minutes ago]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Role: SDET Location: Remote job / Work for home Duration: 6 Months + Contract. Immediate interview / Urgent need Job Description:- The SDET is the person responsible for developing, implementing, and sustaining complex test automation using Agile automation techniques and tools. You will receive deep insight into the software development lifecycle along with freedom to complete your goals in your way. If you thrive in a fast-paced environment, operating at the tactical level.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJobsData -->
+        <test-method signature="postJobsDetails()[pri:0, instance:com.restAssured.JobsAPITest.TC_PostRequest_002@6ef888f6]" started-at="2022-06-19T15:47:20 EDT" name="postJobsDetails" finished-at="2022-06-19T15:47:21 EDT" depends-on-methods="com.restAssured.JobsAPITest.TC_PostRequest_002.postJobsData" duration-ms="121" status="FAIL">
+          <exception class="java.lang.IllegalStateException">
+            <message>
+              <![CDATA[Target host is null]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.IllegalStateException: Target host is null
+at org.apache.http.util.Asserts.notNull(Asserts.java:52)
+at org.apache.http.impl.conn.ProxySelectorRoutePlanner.determineRoute(ProxySelectorRoutePlanner.java:133)
+at org.apache.http.impl.client.DefaultRequestDirector.determineRoute(DefaultRequestDirector.java:756)
+at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:375)
+at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:835)
+at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+at io.restassured.internal.RestAssuredHttpBuilder.doRequest(RestAssuredHttpBuilder.java:141)
+at io.restassured.internal.http.HTTPBuilder.post(HTTPBuilder.java:349)
+at io.restassured.internal.http.HTTPBuilder$post$3.call(Unknown Source)
+at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:46)
+at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:125)
+at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:148)
+at io.restassured.internal.RequestSpecificationImpl.sendRequest(RequestSpecificationImpl.groovy:1195)
+at io.restassured.internal.RequestSpecificationImpl.this$2$sendRequest(RequestSpecificationImpl.groovy)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+at org.codehaus.groovy.reflection.CachedMethod.invoke(CachedMethod.java:343)
+at groovy.lang.MetaMethod.doMethodInvoke(MetaMethod.java:328)
+at groovy.lang.MetaClassImpl.doInvokeMethod(MetaClassImpl.java:1369)
+at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1103)
+at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1009)
+at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:792)
+at io.restassured.internal.RequestSpecificationImpl.invokeMethod(RequestSpecificationImpl.groovy)
+at org.codehaus.groovy.runtime.callsite.PogoInterceptableSite.call(PogoInterceptableSite.java:46)
+at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:166)
+at io.restassured.internal.filter.SendRequestFilter.filter(SendRequestFilter.groovy:30)
+at io.restassured.filter.Filter$filter$0.call(Unknown Source)
+at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:46)
+at io.restassured.filter.Filter$filter.call(Unknown Source)
+at io.restassured.internal.filter.FilterContextImpl.next(FilterContextImpl.groovy:72)
+at io.restassured.filter.time.TimingFilter.filter(TimingFilter.java:56)
+at io.restassured.filter.Filter$filter.call(Unknown Source)
+at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:46)
+at io.restassured.filter.Filter$filter$0.call(Unknown Source)
+at io.restassured.internal.filter.FilterContextImpl.next(FilterContextImpl.groovy:72)
+at io.restassured.filter.FilterContext$next.call(Unknown Source)
+at io.restassured.internal.RequestSpecificationImpl.applyPathParamsAndSendRequest(RequestSpecificationImpl.groovy:1686)
+at io.restassured.internal.RequestSpecificationImpl.this$2$applyPathParamsAndSendRequest(RequestSpecificationImpl.groovy)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+at org.codehaus.groovy.reflection.CachedMethod.invoke(CachedMethod.java:343)
+at groovy.lang.MetaMethod.doMethodInvoke(MetaMethod.java:328)
+at groovy.lang.MetaClassImpl.doInvokeMethod(MetaClassImpl.java:1369)
+at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1103)
+at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1009)
+at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:792)
+at io.restassured.internal.RequestSpecificationImpl.invokeMethod(RequestSpecificationImpl.groovy)
+at org.codehaus.groovy.runtime.callsite.PogoInterceptableSite.call(PogoInterceptableSite.java:46)
+at org.codehaus.groovy.runtime.callsite.PogoInterceptableSite.callCurrent(PogoInterceptableSite.java:57)
+at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callCurrent(AbstractCallSite.java:203)
+at io.restassured.internal.RequestSpecificationImpl.applyPathParamsAndSendRequest(RequestSpecificationImpl.groovy:1692)
+at io.restassured.internal.RequestSpecificationImpl.this$2$applyPathParamsAndSendRequest(RequestSpecificationImpl.groovy)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+at org.codehaus.groovy.reflection.CachedMethod.invoke(CachedMethod.java:343)
+at groovy.lang.MetaMethod.doMethodInvoke(MetaMethod.java:328)
+at groovy.lang.MetaClassImpl.doInvokeMethod(MetaClassImpl.java:1369)
+at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1103)
+at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1009)
+at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:792)
+at io.restassured.internal.RequestSpecificationImpl.invokeMethod(RequestSpecificationImpl.groovy)
+at org.codehaus.groovy.runtime.callsite.PogoInterceptableSite.call(PogoInterceptableSite.java:46)
+at org.codehaus.groovy.runtime.callsite.PogoInterceptableSite.callCurrent(PogoInterceptableSite.java:57)
+at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCallCurrent(CallSiteArray.java:50)
+at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callCurrent(AbstractCallSite.java:171)
+at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callCurrent(AbstractCallSite.java:203)
+at io.restassured.internal.RequestSpecificationImpl.post(RequestSpecificationImpl.groovy:180)
+at io.restassured.internal.RequestSpecificationImpl.post(RequestSpecificationImpl.groovy)
+at com.restAssured.JobsAPITest.TC_PostRequest_002.postJobsDetails(TC_PostRequest_002.java:52)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:135)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:673)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:220)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:945)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:193)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:808)
+at org.testng.TestRunner.run(TestRunner.java:603)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:429)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:423)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:383)
+at org.testng.SuiteRunner.run(SuiteRunner.java:326)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1249)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+at org.testng.TestNG.runSuites(TestNG.java:1092)
+at org.testng.TestNG.run(TestNG.java:1060)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.IllegalStateException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJobsDetails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.restAssured.JobsAPITest.TC_PostRequest_002@6ef888f6]" started-at="2022-06-19T15:47:21 EDT" name="tearDown" finished-at="2022-06-19T15:47:21 EDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.restAssured.JobsAPITest.TC_PostRequest_002 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

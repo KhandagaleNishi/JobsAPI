@@ -1,0 +1,1024 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "data": {
+      "type": "object",
+      "properties": {
+        "Job Title": {
+          "type": "object",
+          "properties": {
+            "0": {
+              "type": "string"
+            },
+            "1": {
+              "type": "string"
+            },
+            "2": {
+              "type": "string"
+            },
+            "3": {
+              "type": "string"
+            },
+            "4": {
+              "type": "string"
+            },
+            "5": {
+              "type": "string"
+            },
+            "6": {
+              "type": "string"
+            },
+            "7": {
+              "type": "string"
+            },
+            "8": {
+              "type": "string"
+            },
+            "9": {
+              "type": "string"
+            },
+            "10": {
+              "type": "string"
+            },
+            "11": {
+              "type": "string"
+            },
+            "12": {
+              "type": "string"
+            },
+            "13": {
+              "type": "string"
+            },
+            "14": {
+              "type": "string"
+            },
+            "15": {
+              "type": "string"
+            },
+            "16": {
+              "type": "string"
+            },
+            "17": {
+              "type": "string"
+            },
+            "18": {
+              "type": "string"
+            },
+            "19": {
+              "type": "string"
+            },
+            "20": {
+              "type": "string"
+            },
+            "21": {
+              "type": "string"
+            },
+            "22": {
+              "type": "string"
+            },
+            "23": {
+              "type": "string"
+            },
+            "24": {
+              "type": "string"
+            },
+            "25": {
+              "type": "string"
+            },
+            "26": {
+              "type": "string"
+            },
+            "27": {
+              "type": "string"
+            },
+            "28": {
+              "type": "string"
+            },
+            "29": {
+              "type": "string"
+            },
+            "30": {
+              "type": "string"
+            },
+            "31": {
+              "type": "string"
+            },
+            "32": {
+              "type": "string"
+            },
+            "33": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14",
+            "15",
+            "16",
+            "17",
+            "18",
+            "19",
+            "20",
+            "21",
+            "22",
+            "23",
+            "24",
+            "25",
+            "26",
+            "27",
+            "28",
+            "29",
+            "30",
+            "31",
+            "32",
+            "33"
+          ]
+        },
+        "Job Company Name": {
+          "type": "object",
+          "properties": {
+            "0": {
+              "type": "string"
+            },
+            "1": {
+              "type": "string"
+            },
+            "2": {
+              "type": "string"
+            },
+            "3": {
+              "type": "string"
+            },
+            "4": {
+              "type": "string"
+            },
+            "5": {
+              "type": "string"
+            },
+            "6": {
+              "type": "string"
+            },
+            "7": {
+              "type": "string"
+            },
+            "8": {
+              "type": "string"
+            },
+            "9": {
+              "type": "string"
+            },
+            "10": {
+              "type": "string"
+            },
+            "11": {
+              "type": "string"
+            },
+            "12": {
+              "type": "string"
+            },
+            "13": {
+              "type": "string"
+            },
+            "14": {
+              "type": "string"
+            },
+            "15": {
+              "type": "string"
+            },
+            "16": {
+              "type": "string"
+            },
+            "17": {
+              "type": "string"
+            },
+            "18": {
+              "type": "string"
+            },
+            "19": {
+              "type": "string"
+            },
+            "20": {
+              "type": "string"
+            },
+            "21": {
+              "type": "string"
+            },
+            "22": {
+              "type": "string"
+            },
+            "23": {
+              "type": "string"
+            },
+            "24": {
+              "type": "string"
+            },
+            "25": {
+              "type": "string"
+            },
+            "26": {
+              "type": "string"
+            },
+            "27": {
+              "type": "string"
+            },
+            "28": {
+              "type": "string"
+            },
+            "29": {
+              "type": "string"
+            },
+            "30": {
+              "type": "string"
+            },
+            "31": {
+              "type": "string"
+            },
+            "32": {
+              "type": "string"
+            },
+            "33": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14",
+            "15",
+            "16",
+            "17",
+            "18",
+            "19",
+            "20",
+            "21",
+            "22",
+            "23",
+            "24",
+            "25",
+            "26",
+            "27",
+            "28",
+            "29",
+            "30",
+            "31",
+            "32",
+            "33"
+          ]
+        },
+        "Job Location": {
+          "type": "object",
+          "properties": {
+            "0": {
+              "type": "string"
+            },
+            "1": {
+              "type": "string"
+            },
+            "2": {
+              "type": "string"
+            },
+            "3": {
+              "type": "string"
+            },
+            "4": {
+              "type": "string"
+            },
+            "5": {
+              "type": "string"
+            },
+            "6": {
+              "type": "string"
+            },
+            "7": {
+              "type": "string"
+            },
+            "8": {
+              "type": "string"
+            },
+            "9": {
+              "type": "string"
+            },
+            "10": {
+              "type": "string"
+            },
+            "11": {
+              "type": "string"
+            },
+            "12": {
+              "type": "string"
+            },
+            "13": {
+              "type": "string"
+            },
+            "14": {
+              "type": "string"
+            },
+            "15": {
+              "type": "string"
+            },
+            "16": {
+              "type": "string"
+            },
+            "17": {
+              "type": "string"
+            },
+            "18": {
+              "type": "string"
+            },
+            "19": {
+              "type": "string"
+            },
+            "20": {
+              "type": "string"
+            },
+            "21": {
+              "type": "string"
+            },
+            "22": {
+              "type": "string"
+            },
+            "23": {
+              "type": "string"
+            },
+            "24": {
+              "type": "string"
+            },
+            "25": {
+              "type": "string"
+            },
+            "26": {
+              "type": "string"
+            },
+            "27": {
+              "type": "string"
+            },
+            "28": {
+              "type": "string"
+            },
+            "29": {
+              "type": "string"
+            },
+            "30": {
+              "type": "string"
+            },
+            "31": {
+              "type": "string"
+            },
+            "32": {
+              "type": "string"
+            },
+            "33": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14",
+            "15",
+            "16",
+            "17",
+            "18",
+            "19",
+            "20",
+            "21",
+            "22",
+            "23",
+            "24",
+            "25",
+            "26",
+            "27",
+            "28",
+            "29",
+            "30",
+            "31",
+            "32",
+            "33"
+          ]
+        },
+        "Job Type": {
+          "type": "object",
+          "properties": {
+            "0": {
+              "type": "string"
+            },
+            "1": {
+              "type": "string"
+            },
+            "2": {
+              "type": "string"
+            },
+            "3": {
+              "type": "string"
+            },
+            "4": {
+              "type": "string"
+            },
+            "5": {
+              "type": "string"
+            },
+            "6": {
+              "type": "string"
+            },
+            "7": {
+              "type": "string"
+            },
+            "8": {
+              "type": "string"
+            },
+            "9": {
+              "type": "string"
+            },
+            "10": {
+              "type": "string"
+            },
+            "11": {
+              "type": "string"
+            },
+            "12": {
+              "type": "string"
+            },
+            "13": {
+              "type": "string"
+            },
+            "14": {
+              "type": "string"
+            },
+            "15": {
+              "type": "string"
+            },
+            "16": {
+              "type": "string"
+            },
+            "17": {
+              "type": "string"
+            },
+            "18": {
+              "type": "string"
+            },
+            "19": {
+              "type": "string"
+            },
+            "20": {
+              "type": "string"
+            },
+            "21": {
+              "type": "string"
+            },
+            "22": {
+              "type": "string"
+            },
+            "23": {
+              "type": "string"
+            },
+            "24": {
+              "type": "string"
+            },
+            "25": {
+              "type": "string"
+            },
+            "26": {
+              "type": "string"
+            },
+            "27": {
+              "type": "string"
+            },
+            "28": {
+              "type": "string"
+            },
+            "29": {
+              "type": "string"
+            },
+            "30": {
+              "type": "string"
+            },
+            "31": {
+              "type": "string"
+            },
+            "32": {
+              "type": "string"
+            },
+            "33": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14",
+            "15",
+            "16",
+            "17",
+            "18",
+            "19",
+            "20",
+            "21",
+            "22",
+            "23",
+            "24",
+            "25",
+            "26",
+            "27",
+            "28",
+            "29",
+            "30",
+            "31",
+            "32",
+            "33"
+          ]
+        },
+        "Job Posted time": {
+          "type": "object",
+          "properties": {
+            "0": {
+              "type": "string"
+            },
+            "1": {
+              "type": "string"
+            },
+            "2": {
+              "type": "string"
+            },
+            "3": {
+              "type": "string"
+            },
+            "4": {
+              "type": "string"
+            },
+            "5": {
+              "type": "string"
+            },
+            "6": {
+              "type": "string"
+            },
+            "7": {
+              "type": "string"
+            },
+            "8": {
+              "type": "string"
+            },
+            "9": {
+              "type": "string"
+            },
+            "10": {
+              "type": "string"
+            },
+            "11": {
+              "type": "string"
+            },
+            "12": {
+              "type": "string"
+            },
+            "13": {
+              "type": "string"
+            },
+            "14": {
+              "type": "string"
+            },
+            "15": {
+              "type": "string"
+            },
+            "16": {
+              "type": "string"
+            },
+            "17": {
+              "type": "string"
+            },
+            "18": {
+              "type": "string"
+            },
+            "19": {
+              "type": "string"
+            },
+            "20": {
+              "type": "number"
+            },
+            "21": {
+              "type": "number"
+            },
+            "22": {
+              "type": "number"
+            },
+            "23": {
+              "type": "number"
+            },
+            "24": {
+              "type": "number"
+            },
+            "25": {
+              "type": "string"
+            },
+            "26": {
+              "type": "number"
+            },
+            "27": {
+              "type": "number"
+            },
+            "28": {
+              "type": "number"
+            },
+            "29": {
+              "type": "number"
+            },
+            "30": {
+              "type": "string"
+            },
+            "31": {
+              "type": "string"
+            },
+            "32": {
+              "type": "string"
+            },
+            "33": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14",
+            "15",
+            "16",
+            "17",
+            "18",
+            "19",
+            "20",
+            "21",
+            "22",
+            "23",
+            "24",
+            "25",
+            "26",
+            "27",
+            "28",
+            "29",
+            "30",
+            "31",
+            "32",
+            "33"
+          ]
+        },
+        "Job Description": {
+          "type": "object",
+          "properties": {
+            "0": {
+              "type": "string"
+            },
+            "1": {
+              "type": "string"
+            },
+            "2": {
+              "type": "string"
+            },
+            "3": {
+              "type": "string"
+            },
+            "4": {
+              "type": "string"
+            },
+            "5": {
+              "type": "string"
+            },
+            "6": {
+              "type": "string"
+            },
+            "7": {
+              "type": "string"
+            },
+            "8": {
+              "type": "string"
+            },
+            "9": {
+              "type": "string"
+            },
+            "10": {
+              "type": "string"
+            },
+            "11": {
+              "type": "string"
+            },
+            "12": {
+              "type": "string"
+            },
+            "13": {
+              "type": "string"
+            },
+            "14": {
+              "type": "string"
+            },
+            "15": {
+              "type": "string"
+            },
+            "16": {
+              "type": "string"
+            },
+            "17": {
+              "type": "string"
+            },
+            "18": {
+              "type": "string"
+            },
+            "19": {
+              "type": "string"
+            },
+            "20": {
+              "type": "string"
+            },
+            "21": {
+              "type": "string"
+            },
+            "22": {
+              "type": "string"
+            },
+            "23": {
+              "type": "string"
+            },
+            "24": {
+              "type": "string"
+            },
+            "25": {
+              "type": "string"
+            },
+            "26": {
+              "type": "string"
+            },
+            "27": {
+              "type": "string"
+            },
+            "28": {
+              "type": "string"
+            },
+            "29": {
+              "type": "string"
+            },
+            "30": {
+              "type": "string"
+            },
+            "31": {
+              "type": "string"
+            },
+            "32": {
+              "type": "string"
+            },
+            "33": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14",
+            "15",
+            "16",
+            "17",
+            "18",
+            "19",
+            "20",
+            "21",
+            "22",
+            "23",
+            "24",
+            "25",
+            "26",
+            "27",
+            "28",
+            "29",
+            "30",
+            "31",
+            "32",
+            "33"
+          ]
+        },
+        "Job Id": {
+          "type": "object",
+          "properties": {
+            "0": {
+              "type": "string"
+            },
+            "1": {
+              "type": "string"
+            },
+            "2": {
+              "type": "string"
+            },
+            "3": {
+              "type": "string"
+            },
+            "4": {
+              "type": "string"
+            },
+            "5": {
+              "type": "string"
+            },
+            "6": {
+              "type": "string"
+            },
+            "7": {
+              "type": "string"
+            },
+            "8": {
+              "type": "string"
+            },
+            "9": {
+              "type": "string"
+            },
+            "10": {
+              "type": "string"
+            },
+            "11": {
+              "type": "string"
+            },
+            "12": {
+              "type": "string"
+            },
+            "13": {
+              "type": "string"
+            },
+            "14": {
+              "type": "string"
+            },
+            "15": {
+              "type": "string"
+            },
+            "16": {
+              "type": "string"
+            },
+            "17": {
+              "type": "string"
+            },
+            "18": {
+              "type": "string"
+            },
+            "19": {
+              "type": "string"
+            },
+            "20": {
+              "type": "string"
+            },
+            "21": {
+              "type": "string"
+            },
+            "22": {
+              "type": "string"
+            },
+            "23": {
+              "type": "string"
+            },
+            "24": {
+              "type": "string"
+            },
+            "25": {
+              "type": "string"
+            },
+            "26": {
+              "type": "string"
+            },
+            "27": {
+              "type": "string"
+            },
+            "28": {
+              "type": "string"
+            },
+            "29": {
+              "type": "string"
+            },
+            "30": {
+              "type": "string"
+            },
+            "31": {
+              "type": "string"
+            },
+            "32": {
+              "type": "string"
+            },
+            "33": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14",
+            "15",
+            "16",
+            "17",
+            "18",
+            "19",
+            "20",
+            "21",
+            "22",
+            "23",
+            "24",
+            "25",
+            "26",
+            "27",
+            "28",
+            "29",
+            "30",
+            "31",
+            "32",
+            "33"
+          ]
+        }
+      },
+      "required": [
+        "Job Title",
+        "Job Company Name",
+        "Job Location",
+        "Job Type",
+        "Job Posted time",
+        "Job Description",
+        "Job Id"
+      ]
+    }
+  },
+  "required": [
+    "data"
+  ]
+}

@@ -1,0 +1,1163 @@
+2022-05-30 10:37:58,789 - Rest Assured Jobs API Automation -INFO - **************TC001 GET Request Start**************
+2022-05-30 10:38:00,882 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-05-30 10:38:01,638 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-05-30 10:38:01,642 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-05-30 10:38:01,645 - Rest Assured Jobs API Automation -INFO - ************** TC001 GET Request END **************
+2022-05-30 10:38:12,489 - Rest Assured Jobs API Automation -INFO - **************TC002 POST Request Start**************
+2022-05-30 10:38:13,898 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-05-30 10:38:13,904 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-05-30 10:38:13,909 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-05-30 10:38:16,115 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-05-30 10:38:16,304 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-05-30 10:38:16,314 - Rest Assured Jobs API Automation -INFO - ************** TC002 POST Request END **************
+2022-05-30 11:01:32,371 - Rest Assured Jobs API Automation -INFO - **************TC002 POST Request Start**************
+2022-05-30 11:01:33,791 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-05-30 11:01:33,797 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-05-30 11:01:33,802 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-05-30 11:01:36,031 - Rest Assured Jobs API Automation -INFO - ************** TC002 POST Request END **************
+2022-05-30 11:03:01,132 - Rest Assured Jobs API Automation -INFO - **************TC002 POST Request Start**************
+2022-05-30 11:03:02,609 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-05-30 11:03:02,618 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-05-30 11:03:02,623 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-05-30 11:03:05,167 - Rest Assured Jobs API Automation -INFO - ************** TC002 POST Request END **************
+2022-05-30 11:03:38,704 - Rest Assured Jobs API Automation -INFO - **************TC002 POST Request Start**************
+2022-05-30 11:03:40,059 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-05-30 11:03:40,064 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-05-30 11:03:40,068 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-05-30 11:03:42,361 - Rest Assured Jobs API Automation -INFO - ************** TC002 POST Request END **************
+2022-05-30 11:04:40,266 - Rest Assured Jobs API Automation -INFO - **************TC003 PUT Request Start**************
+2022-05-30 11:04:41,522 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-05-30 11:04:41,528 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-05-30 11:04:43,741 - Rest Assured Jobs API Automation -INFO - ************** TC003 PUT Request END **************
+2022-06-02 11:02:14,331 - Rest Assured Jobs API Automation -INFO - **************TC002 POST Request Start**************
+2022-06-02 11:02:15,801 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-02 11:02:15,807 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-02 11:02:15,812 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-02 11:02:28,449 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-02 11:02:28,658 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-02 11:02:28,668 - Rest Assured Jobs API Automation -INFO - ************** TC002 POST Request END **************
+2022-06-06 18:49:31,987 - Rest Assured Jobs API Automation -INFO - **************TC001 GET Request Start**************
+2022-06-06 18:49:42,324 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-06 18:49:42,349 - Rest Assured Jobs API Automation -INFO - ************** TC001 GET Request END **************
+2022-06-06 18:52:17,188 - Rest Assured Jobs API Automation -INFO - **************TC002 POST Request Start**************
+2022-06-06 18:52:18,629 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-06 18:52:18,636 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-06 18:52:18,640 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-06 18:52:21,117 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-06 18:52:21,138 - Rest Assured Jobs API Automation -INFO - ************** TC002 POST Request END **************
+2022-06-06 18:55:11,519 - Rest Assured Jobs API Automation -INFO - **************TC002 POST Request Start**************
+2022-06-06 18:55:13,004 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-06 18:55:13,009 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-06 18:55:13,013 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-06 18:55:15,255 - Rest Assured Jobs API Automation -INFO - ************** TC002 POST Request END **************
+2022-06-06 18:56:33,171 - Rest Assured Jobs API Automation -INFO - **************TC001 GET Request Start**************
+2022-06-06 18:56:35,243 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-06 18:56:35,684 - Rest Assured Jobs API Automation -INFO - ************** TC001 GET Request END **************
+2022-06-06 18:58:37,018 - Rest Assured Jobs API Automation -INFO - **************TC001 GET Request Start**************
+2022-06-06 18:58:39,060 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-06 18:58:39,488 - Rest Assured Jobs API Automation -INFO - ************** TC001 GET Request END **************
+2022-06-06 19:03:11,695 - Rest Assured Jobs API Automation -INFO - **************TC002 POST Request Start**************
+2022-06-06 19:03:13,236 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-06 19:03:13,243 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-06 19:03:13,247 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-06 19:03:15,491 - Rest Assured Jobs API Automation -INFO - ************** TC002 POST Request END **************
+2022-06-06 19:03:27,015 - Rest Assured Jobs API Automation -INFO - **************TC002 POST Request Start**************
+2022-06-06 19:03:28,543 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-06 19:03:28,548 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-06 19:03:28,553 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-06 19:03:30,746 - Rest Assured Jobs API Automation -INFO - ************** TC002 POST Request END **************
+2022-06-06 19:04:30,108 - Rest Assured Jobs API Automation -INFO - **************TC002 POST Request Start**************
+2022-06-06 19:04:31,528 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-06 19:04:31,533 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-06 19:04:31,537 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-06 19:04:33,782 - Rest Assured Jobs API Automation -INFO - ************** TC002 POST Request END **************
+2022-06-06 19:05:57,542 - Rest Assured Jobs API Automation -INFO - **************TC002 POST Request Start**************
+2022-06-06 19:05:58,984 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-06 19:05:58,994 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-06 19:05:58,997 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-06 19:06:01,253 - Rest Assured Jobs API Automation -INFO - ************** TC002 POST Request END **************
+2022-06-06 19:07:11,371 - Rest Assured Jobs API Automation -INFO - **************TC002 POST Request Start**************
+2022-06-06 19:07:12,896 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-06 19:07:12,901 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-06 19:07:12,906 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-06 19:07:15,086 - Rest Assured Jobs API Automation -INFO - ************** TC002 POST Request END **************
+2022-06-07 08:09:04,197 - Rest Assured Jobs API Automation -INFO - **************TC001 GET Request Start**************
+2022-06-07 08:09:18,514 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 08:09:19,778 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 08:09:19,783 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 08:09:19,788 - Rest Assured Jobs API Automation -INFO - ************** TC001 GET Request END **************
+2022-06-07 08:13:17,139 - Rest Assured Jobs API Automation -INFO - **************TC001 GET Request Start**************
+2022-06-07 08:13:19,218 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 08:13:20,479 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 08:13:20,484 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 08:13:20,492 - Rest Assured Jobs API Automation -INFO - ************** TC001 GET Request END **************
+2022-06-07 10:10:14,712 - Rest Assured Jobs API Automation -INFO - **************TC001 GET Request Start**************
+2022-06-07 10:10:24,923 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 10:10:25,354 - Rest Assured Jobs API Automation -INFO - ************** TC001 GET Request END **************
+2022-06-07 10:10:25,385 - Rest Assured Jobs API Automation -INFO - ************** TC001 GET Request END **************
+2022-06-07 10:10:25,393 - Rest Assured Jobs API Automation -INFO - **************TC002 POST Request Start**************
+2022-06-07 10:10:26,881 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 10:10:26,885 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 10:10:26,886 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 10:10:27,468 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 10:10:27,599 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 10:10:27,611 - Rest Assured Jobs API Automation -INFO - ************** TC002 POST Request END **************
+2022-06-07 10:10:27,615 - Rest Assured Jobs API Automation -INFO - **************TC003 PUT Request Start**************
+2022-06-07 10:10:28,056 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 10:10:28,062 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 10:10:28,524 - Rest Assured Jobs API Automation -INFO - ************** TC003 PUT Request END **************
+2022-06-07 10:10:28,530 - Rest Assured Jobs API Automation -INFO - **************TC004 DELETE Request Start**************
+2022-06-07 10:10:28,963 - Rest Assured Jobs API Automation -INFO - ************** TC004 DELETE Request END **************
+2022-06-07 11:06:50,979 - Rest Assured Jobs API Automation -INFO - **************TC001 GET Request Start**************
+2022-06-07 11:06:53,172 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 11:06:53,689 - Rest Assured Jobs API Automation -INFO - ************** TC001 GET Request END **************
+2022-06-07 11:06:53,713 - Rest Assured Jobs API Automation -INFO - ************** TC001 GET Request END **************
+2022-06-07 11:08:20,017 - Rest Assured Jobs API Automation -INFO - **************TC001 GET Request Start**************
+2022-06-07 11:08:22,976 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 11:08:23,398 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 11:08:23,399 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 11:08:23,924 - Rest Assured Jobs API Automation -INFO - ************** TC001 GET Request END **************
+2022-06-07 11:08:52,063 - Rest Assured Jobs API Automation -INFO - **************TC001 GET Request Start**************
+2022-06-07 11:08:54,952 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 11:08:55,509 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 11:08:55,511 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 11:08:55,525 - Rest Assured Jobs API Automation -INFO - ************** TC001 GET Request END **************
+2022-06-07 11:09:43,158 - Rest Assured Jobs API Automation -INFO - **************TC001 GET Request Start**************
+2022-06-07 11:09:46,093 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 11:09:46,483 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 11:09:46,484 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 11:09:46,497 - Rest Assured Jobs API Automation -INFO - ************** TC001 GET Request END **************
+2022-06-07 11:12:41,475 - Rest Assured Jobs API Automation -INFO - **************TC001 GET Request Start**************
+2022-06-07 11:12:44,398 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 11:12:44,401 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 11:12:44,805 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 11:12:44,806 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 11:12:44,818 - Rest Assured Jobs API Automation -INFO - ************** TC001 GET Request END **************
+2022-06-07 11:12:58,057 - Rest Assured Jobs API Automation -INFO - **************TC001 GET Request Start**************
+2022-06-07 11:13:01,182 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 11:13:01,185 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 11:13:02,119 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 11:13:02,121 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 11:13:02,173 - Rest Assured Jobs API Automation -INFO - ************** TC001 GET Request END **************
+2022-06-07 11:18:48,706 - Rest Assured Jobs API Automation -INFO - **************TC002 POST Request Start**************
+2022-06-07 11:18:50,266 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 11:18:50,273 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 11:18:50,278 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 11:18:52,648 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 11:18:52,652 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 11:18:53,072 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 11:18:53,089 - Rest Assured Jobs API Automation -INFO - ************** TC002 POST Request END **************
+2022-06-07 11:20:00,553 - Rest Assured Jobs API Automation -INFO - **************TC002 POST Request Start**************
+2022-06-07 11:20:02,022 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 11:20:02,028 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 11:20:02,038 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 11:20:04,401 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 11:20:04,405 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 11:20:04,786 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 11:20:04,808 - Rest Assured Jobs API Automation -INFO - ************** TC002 POST Request END **************
+2022-06-07 11:21:24,911 - Rest Assured Jobs API Automation -INFO - **************TC001 GET Request Start**************
+2022-06-07 11:21:27,822 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 11:21:27,825 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 11:21:28,705 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 11:21:28,706 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 11:21:28,763 - Rest Assured Jobs API Automation -INFO - ************** TC001 GET Request END **************
+2022-06-07 11:22:29,652 - Rest Assured Jobs API Automation -INFO - **************TC002 POST Request Start**************
+2022-06-07 11:22:31,116 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 11:22:31,123 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 11:22:31,128 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 11:22:33,534 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 11:22:33,540 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 11:22:33,905 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 11:22:33,919 - Rest Assured Jobs API Automation -INFO - ************** TC002 POST Request END **************
+2022-06-07 11:23:31,525 - Rest Assured Jobs API Automation -INFO - **************TC002 POST Request Start**************
+2022-06-07 11:23:32,998 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 11:23:33,005 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 11:23:33,010 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 11:23:35,342 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 11:23:35,346 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 11:23:35,712 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 11:23:35,731 - Rest Assured Jobs API Automation -INFO - ************** TC002 POST Request END **************
+2022-06-07 11:24:26,155 - Rest Assured Jobs API Automation -INFO - **************TC002 POST Request Start**************
+2022-06-07 11:24:27,627 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 11:24:27,633 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 11:24:27,640 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 11:24:30,030 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 11:24:30,418 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 11:24:30,434 - Rest Assured Jobs API Automation -INFO - ************** TC002 POST Request END **************
+2022-06-07 11:30:21,678 - Rest Assured Jobs API Automation -INFO - **************TC002 POST Request Start**************
+2022-06-07 11:30:23,165 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 11:30:23,172 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 11:30:23,178 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 11:30:25,541 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 11:30:25,934 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 11:30:25,948 - Rest Assured Jobs API Automation -INFO - ************** TC002 POST Request END **************
+2022-06-07 11:31:19,867 - Rest Assured Jobs API Automation -INFO - **************TC002 POST Request Start**************
+2022-06-07 11:31:21,306 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 11:31:21,313 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 11:31:21,318 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 11:31:23,709 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 11:31:24,141 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 11:31:24,158 - Rest Assured Jobs API Automation -INFO - ************** TC002 POST Request END **************
+2022-06-07 11:49:00,078 - Rest Assured Jobs API Automation -INFO - **************TC001 GET Request Start**************
+2022-06-07 11:49:02,955 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 11:49:02,959 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 11:49:03,856 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 11:49:03,858 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 11:49:03,965 - Rest Assured Jobs API Automation -INFO - ************** TC001 GET Request END **************
+2022-06-07 11:52:25,051 - Rest Assured Jobs API Automation -INFO - **************TC001 GET Request Start**************
+2022-06-07 11:52:28,048 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 11:52:28,052 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 11:52:28,911 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 11:52:28,912 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 11:52:28,948 - Rest Assured Jobs API Automation -INFO - ************** TC001 GET Request END **************
+2022-06-07 12:01:38,384 - Rest Assured Jobs API Automation -INFO - **************TC001 GET Request Start**************
+2022-06-07 12:01:41,486 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 12:01:41,490 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 12:01:42,341 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 12:01:42,343 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 12:01:42,368 - Rest Assured Jobs API Automation -INFO - ************** TC001 GET Request END **************
+2022-06-07 12:01:42,389 - Rest Assured Jobs API Automation -INFO - **************TC002 POST Request Start**************
+2022-06-07 12:01:43,167 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 12:01:43,169 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 12:01:43,171 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 12:01:43,847 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 12:01:44,289 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 12:01:44,308 - Rest Assured Jobs API Automation -INFO - ************** TC002 POST Request END **************
+2022-06-07 12:01:44,318 - Rest Assured Jobs API Automation -INFO - **************TC003 PUT Request Start**************
+2022-06-07 12:01:44,645 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 12:01:44,650 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 12:01:44,751 - Rest Assured Jobs API Automation -INFO - ************** TC003 PUT Request END **************
+2022-06-07 12:01:44,755 - Rest Assured Jobs API Automation -INFO - **************TC004 DELETE Request Start**************
+2022-06-07 12:01:45,208 - Rest Assured Jobs API Automation -INFO - ************** TC004 DELETE Request END **************
+2022-06-07 12:02:08,623 - Rest Assured Jobs API Automation -INFO - **************TC001 GET Request Start**************
+2022-06-07 12:02:11,464 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 12:02:11,468 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 12:02:12,339 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 12:02:12,341 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 12:02:12,371 - Rest Assured Jobs API Automation -INFO - ************** TC001 GET Request END **************
+2022-06-07 12:08:03,951 - Rest Assured Jobs API Automation -INFO - **************TC001 GET Request Start**************
+2022-06-07 12:08:06,842 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 12:08:06,846 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 12:08:07,717 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 12:08:07,719 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 12:08:07,747 - Rest Assured Jobs API Automation -INFO - ************** TC001 GET Request END **************
+2022-06-07 12:08:07,765 - Rest Assured Jobs API Automation -INFO - **************TC002 POST Request Start**************
+2022-06-07 12:08:08,542 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 12:08:08,545 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 12:08:08,547 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 12:08:09,229 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 12:08:09,687 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 12:08:09,698 - Rest Assured Jobs API Automation -INFO - ************** TC002 POST Request END **************
+2022-06-07 12:08:09,707 - Rest Assured Jobs API Automation -INFO - **************TC003 PUT Request Start**************
+2022-06-07 12:08:10,076 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 12:08:10,083 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 12:08:10,137 - Rest Assured Jobs API Automation -INFO - ************** TC003 PUT Request END **************
+2022-06-07 12:08:10,141 - Rest Assured Jobs API Automation -INFO - **************TC004 DELETE Request Start**************
+2022-06-07 12:08:10,591 - Rest Assured Jobs API Automation -INFO - ************** TC004 DELETE Request END **************
+2022-06-07 12:11:59,043 - Rest Assured Jobs API Automation -INFO - **************TC001 GET Request Start**************
+2022-06-07 12:12:01,919 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 12:12:01,922 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 12:12:02,762 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 12:12:02,764 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 12:12:02,794 - Rest Assured Jobs API Automation -INFO - ************** TC001 GET Request END **************
+2022-06-07 12:12:02,809 - Rest Assured Jobs API Automation -INFO - **************TC002 POST Request Start**************
+2022-06-07 12:12:03,553 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 12:12:03,556 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 12:12:03,557 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 12:12:04,184 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 12:12:04,591 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 12:12:04,601 - Rest Assured Jobs API Automation -INFO - ************** TC002 POST Request END **************
+2022-06-07 12:12:04,606 - Rest Assured Jobs API Automation -INFO - **************TC003 PUT Request Start**************
+2022-06-07 12:12:05,154 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 12:12:05,164 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 12:12:05,308 - Rest Assured Jobs API Automation -INFO - ************** TC003 PUT Request END **************
+2022-06-07 12:12:05,314 - Rest Assured Jobs API Automation -INFO - **************TC004 DELETE Request Start**************
+2022-06-07 12:12:05,785 - Rest Assured Jobs API Automation -INFO - ************** TC004 DELETE Request END **************
+2022-06-07 12:14:30,880 - Rest Assured Jobs API Automation -INFO - **************TC004 DELETE Request Start**************
+2022-06-07 12:14:33,915 - Rest Assured Jobs API Automation -INFO - ************** TC004 DELETE Request END **************
+2022-06-07 12:14:46,085 - Rest Assured Jobs API Automation -INFO - **************TC004 DELETE Request Start**************
+2022-06-07 12:14:49,151 - Rest Assured Jobs API Automation -INFO - ************** TC004 DELETE Request END **************
+2022-06-07 12:15:29,124 - Rest Assured Jobs API Automation -INFO - **************TC004 DELETE Request Start**************
+2022-06-07 12:15:32,462 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 12:15:32,465 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 12:15:32,472 - Rest Assured Jobs API Automation -INFO - ************** TC004 DELETE Request END **************
+2022-06-07 12:16:28,793 - Rest Assured Jobs API Automation -INFO - **************TC004 DELETE Request Start**************
+2022-06-07 12:16:32,101 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 12:16:32,103 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 12:16:32,110 - Rest Assured Jobs API Automation -INFO - ************** TC004 DELETE Request END **************
+2022-06-07 12:16:59,440 - Rest Assured Jobs API Automation -INFO - **************TC004 DELETE Request Start**************
+2022-06-07 12:17:02,874 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 12:17:02,877 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 12:17:02,883 - Rest Assured Jobs API Automation -INFO - ************** TC004 DELETE Request END **************
+2022-06-07 12:18:50,480 - Rest Assured Jobs API Automation -INFO - **************TC004 DELETE Request Start**************
+2022-06-07 12:18:53,934 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 12:18:53,937 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 12:18:53,941 - Rest Assured Jobs API Automation -INFO - ************** TC004 DELETE Request END **************
+2022-06-07 12:19:58,567 - Rest Assured Jobs API Automation -INFO - **************TC003 PUT Request Start**************
+2022-06-07 12:19:59,868 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 12:19:59,874 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 12:20:00,041 - Rest Assured Jobs API Automation -INFO - ************** TC003 PUT Request END **************
+2022-06-07 12:20:12,523 - Rest Assured Jobs API Automation -INFO - **************TC004 DELETE Request Start**************
+2022-06-07 12:20:15,905 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 12:20:15,908 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 12:20:15,912 - Rest Assured Jobs API Automation -INFO - ************** TC004 DELETE Request END **************
+2022-06-07 12:22:23,334 - Rest Assured Jobs API Automation -INFO - **************TC001 GET Request Start**************
+2022-06-07 12:22:26,245 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 12:22:26,249 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 12:22:27,105 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 12:22:27,107 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 12:22:27,137 - Rest Assured Jobs API Automation -INFO - ************** TC001 GET Request END **************
+2022-06-07 12:23:24,986 - Rest Assured Jobs API Automation -INFO - **************TC002 POST Request Start**************
+2022-06-07 12:23:26,445 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 12:23:26,455 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 12:23:26,459 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 12:23:28,805 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 12:23:29,229 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 12:23:29,242 - Rest Assured Jobs API Automation -INFO - ************** TC002 POST Request END **************
+2022-06-07 12:24:18,981 - Rest Assured Jobs API Automation -INFO - **************TC002 POST Request Start**************
+2022-06-07 12:24:20,478 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 12:24:20,484 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 12:24:20,489 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 12:24:20,508 - Rest Assured Jobs API Automation -INFO - ************** TC002 POST Request END **************
+2022-06-07 12:27:51,152 - Rest Assured Jobs API Automation -INFO - **************TC002 POST Request Start**************
+2022-06-07 12:27:52,613 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 12:27:52,620 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 12:27:52,626 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 12:27:54,998 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 12:27:55,478 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 12:27:55,498 - Rest Assured Jobs API Automation -INFO - ************** TC002 POST Request END **************
+2022-06-07 12:28:41,106 - Rest Assured Jobs API Automation -INFO - **************TC002 POST Request Start**************
+2022-06-07 12:28:42,605 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 12:28:42,612 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 12:28:42,616 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 12:28:44,902 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 12:28:45,362 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 12:28:45,375 - Rest Assured Jobs API Automation -INFO - ************** TC002 POST Request END **************
+2022-06-07 12:29:14,935 - Rest Assured Jobs API Automation -INFO - **************TC002 POST Request Start**************
+2022-06-07 12:29:16,424 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 12:29:16,431 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 12:29:16,438 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 12:29:18,759 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 12:29:19,350 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 12:29:19,363 - Rest Assured Jobs API Automation -INFO - ************** TC002 POST Request END **************
+2022-06-07 12:30:00,483 - Rest Assured Jobs API Automation -INFO - **************TC002 POST Request Start**************
+2022-06-07 12:30:02,007 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 12:30:02,014 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 12:30:02,018 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 12:30:04,309 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 12:30:04,311 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 12:30:04,748 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 12:30:04,748 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 12:30:04,761 - Rest Assured Jobs API Automation -INFO - ************** TC002 POST Request END **************
+2022-06-07 12:30:43,751 - Rest Assured Jobs API Automation -INFO - **************TC003 PUT Request Start**************
+2022-06-07 12:30:45,120 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 12:30:45,126 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 12:30:45,263 - Rest Assured Jobs API Automation -INFO - ************** TC003 PUT Request END **************
+2022-06-07 12:33:28,064 - Rest Assured Jobs API Automation -INFO - **************TC003 PUT Request Start**************
+2022-06-07 12:33:29,429 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 12:33:29,434 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 12:33:29,563 - Rest Assured Jobs API Automation -INFO - ************** TC003 PUT Request END **************
+2022-06-07 12:35:27,491 - Rest Assured Jobs API Automation -INFO - **************TC003 PUT Request Start**************
+2022-06-07 12:35:28,863 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 12:35:28,870 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 12:35:31,153 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 12:35:31,493 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 12:35:31,503 - Rest Assured Jobs API Automation -INFO - ************** TC003 PUT Request END **************
+2022-06-07 12:35:50,988 - Rest Assured Jobs API Automation -INFO - **************TC003 PUT Request Start**************
+2022-06-07 12:35:52,307 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 12:35:52,313 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 12:35:54,687 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 12:35:55,054 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 12:35:55,066 - Rest Assured Jobs API Automation -INFO - ************** TC003 PUT Request END **************
+2022-06-07 12:42:28,878 - Rest Assured Jobs API Automation -INFO - **************TC003 PUT Request Start**************
+2022-06-07 12:42:30,280 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 12:42:30,286 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 12:42:32,649 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 12:42:32,992 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 12:42:33,005 - Rest Assured Jobs API Automation -INFO - ************** TC003 PUT Request END **************
+2022-06-07 12:43:03,581 - Rest Assured Jobs API Automation -INFO - **************TC001 GET Request Start**************
+2022-06-07 12:43:06,470 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 12:43:06,475 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 12:43:07,309 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 12:43:07,310 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 12:43:07,338 - Rest Assured Jobs API Automation -INFO - ************** TC001 GET Request END **************
+2022-06-07 12:43:07,353 - Rest Assured Jobs API Automation -INFO - **************TC002 POST Request Start**************
+2022-06-07 12:43:08,107 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 12:43:08,110 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 12:43:08,112 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 12:43:08,956 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 12:43:08,957 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 12:43:09,404 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 12:43:09,406 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 12:43:09,417 - Rest Assured Jobs API Automation -INFO - ************** TC002 POST Request END **************
+2022-06-07 12:43:09,429 - Rest Assured Jobs API Automation -INFO - **************TC003 PUT Request Start**************
+2022-06-07 12:43:09,762 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 12:43:09,768 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 12:43:10,195 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 12:43:10,509 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 12:43:10,512 - Rest Assured Jobs API Automation -INFO - ************** TC003 PUT Request END **************
+2022-06-07 12:43:10,516 - Rest Assured Jobs API Automation -INFO - **************TC004 DELETE Request Start**************
+2022-06-07 12:43:11,770 - Rest Assured Jobs API Automation -INFO - ************** TC004 DELETE Request END **************
+2022-06-07 13:09:01,092 - Rest Assured Jobs API Automation -INFO - **************TC001 GET Request Start**************
+2022-06-07 13:09:03,991 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 13:09:03,995 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 13:09:04,867 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 13:09:04,869 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 13:09:04,901 - Rest Assured Jobs API Automation -INFO - ************** TC001 GET Request END **************
+2022-06-07 13:09:04,918 - Rest Assured Jobs API Automation -INFO - **************TC002 POST Request Start**************
+2022-06-07 13:09:05,669 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 13:09:05,672 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 13:09:05,673 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 13:09:06,520 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 13:09:06,522 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 13:09:06,977 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 13:09:06,979 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 13:09:06,992 - Rest Assured Jobs API Automation -INFO - ************** TC002 POST Request END **************
+2022-06-07 13:09:07,002 - Rest Assured Jobs API Automation -INFO - **************TC003 PUT Request Start**************
+2022-06-07 13:09:07,335 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 13:09:07,341 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 13:09:07,746 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 13:09:08,050 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 13:09:08,054 - Rest Assured Jobs API Automation -INFO - ************** TC003 PUT Request END **************
+2022-06-07 13:09:08,058 - Rest Assured Jobs API Automation -INFO - **************TC004 DELETE Request Start**************
+2022-06-07 13:09:08,812 - Rest Assured Jobs API Automation -INFO - ************** TC004 DELETE Request END **************
+2022-06-07 13:21:20,432 - Rest Assured Jobs API Automation -INFO - **************TC001 GET Request Start**************
+2022-06-07 13:21:23,644 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 13:21:23,647 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 13:21:24,515 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 13:21:24,517 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 13:21:24,541 - Rest Assured Jobs API Automation -INFO - ************** TC001 GET Request END **************
+2022-06-07 13:21:24,556 - Rest Assured Jobs API Automation -INFO - **************TC002 POST Request Start**************
+2022-06-07 13:21:25,357 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 13:21:25,360 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 13:21:25,361 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 13:21:26,287 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 13:21:26,291 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 13:21:26,745 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 13:21:26,745 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 13:21:26,754 - Rest Assured Jobs API Automation -INFO - ************** TC002 POST Request END **************
+2022-06-07 13:21:26,761 - Rest Assured Jobs API Automation -INFO - **************TC003 PUT Request Start**************
+2022-06-07 13:21:27,018 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 13:21:27,025 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 13:21:27,452 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 13:21:27,958 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 13:21:27,964 - Rest Assured Jobs API Automation -INFO - ************** TC003 PUT Request END **************
+2022-06-07 13:21:27,974 - Rest Assured Jobs API Automation -INFO - **************TC004 DELETE Request Start**************
+2022-06-07 13:21:28,759 - Rest Assured Jobs API Automation -INFO - ************** TC004 DELETE Request END **************
+2022-06-07 13:37:42,279 - Rest Assured Jobs API Automation -INFO - **************TC001 GET Request Start**************
+2022-06-07 13:37:45,223 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 13:37:45,229 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 13:37:46,099 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 13:37:46,100 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 13:37:46,123 - Rest Assured Jobs API Automation -INFO - ************** TC001 GET Request END **************
+2022-06-07 13:37:46,137 - Rest Assured Jobs API Automation -INFO - **************TC002 POST Request Start**************
+2022-06-07 13:37:46,858 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 13:37:46,861 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 13:37:46,862 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 13:37:48,020 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 13:37:48,022 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 13:37:48,451 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 13:37:48,451 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 13:37:48,469 - Rest Assured Jobs API Automation -INFO - ************** TC002 POST Request END **************
+2022-06-07 13:37:48,479 - Rest Assured Jobs API Automation -INFO - **************TC003 PUT Request Start**************
+2022-06-07 13:37:48,810 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 13:37:48,820 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 13:37:49,247 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 13:37:49,568 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 13:37:49,573 - Rest Assured Jobs API Automation -INFO - ************** TC003 PUT Request END **************
+2022-06-07 13:37:49,579 - Rest Assured Jobs API Automation -INFO - **************TC004 DELETE Request Start**************
+2022-06-07 13:37:50,829 - Rest Assured Jobs API Automation -INFO - ************** TC004 DELETE Request END **************
+2022-06-07 13:38:21,552 - Rest Assured Jobs API Automation -INFO - **************TC001 GET Request Start**************
+2022-06-07 13:38:24,438 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 13:38:24,439 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 13:38:25,327 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 13:38:25,328 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 13:38:25,363 - Rest Assured Jobs API Automation -INFO - ************** TC001 GET Request END **************
+2022-06-07 13:40:24,406 - Rest Assured Jobs API Automation -INFO - **************TC001 GET Request Start**************
+2022-06-07 13:40:27,527 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 13:40:27,528 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 13:40:28,390 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 13:40:28,391 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 13:40:28,432 - Rest Assured Jobs API Automation -INFO - ************** TC001 GET Request END **************
+2022-06-07 13:41:07,665 - Rest Assured Jobs API Automation -INFO - **************TC001 GET Request Start**************
+2022-06-07 13:41:10,751 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 13:41:10,752 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 13:41:11,639 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 13:41:11,640 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 13:41:11,693 - Rest Assured Jobs API Automation -INFO - ************** TC001 GET Request END **************
+2022-06-07 13:41:42,336 - Rest Assured Jobs API Automation -INFO - **************TC001 GET Request Start**************
+2022-06-07 13:41:45,275 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 13:41:45,277 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 13:41:46,161 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 13:41:46,162 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 13:41:46,205 - Rest Assured Jobs API Automation -INFO - ************** TC001 GET Request END **************
+2022-06-07 17:52:48,998 - Rest Assured Jobs API Automation -INFO - **************TC001 GET Request Start**************
+2022-06-07 17:52:52,018 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 17:52:52,018 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 17:52:52,388 - Rest Assured Jobs API Automation -INFO - Response Body executed
+2022-06-07 17:52:52,389 - Rest Assured Jobs API Automation -INFO - Assertion of response body complete
+2022-06-07 17:52:52,830 - Rest Assured Jobs API Automation -INFO - ************** TC001 GET Request END **************
+2022-06-07 18:23:28,331 - Rest Assured Jobs API Automation -INFO - **************TC004 DELETE Request Start**************
+2022-06-07 18:23:32,507 - Rest Assured Jobs API Automation -INFO - ************** TC004 DELETE Request END **************
+2022-06-07 18:24:44,711 - Rest Assured Jobs API Automation -INFO - **************TC004 DELETE Request Start**************
+2022-06-07 18:24:48,676 - Rest Assured Jobs API Automation -INFO - ************** TC004 DELETE Request END **************
+2022-06-07 18:25:36,349 - Rest Assured Jobs API Automation -INFO - **************TC004 DELETE Request Start**************
+2022-06-07 18:25:40,337 - Rest Assured Jobs API Automation -INFO - ************** TC004 DELETE Request END **************
+2022-06-07 18:26:08,524 - Rest Assured Jobs API Automation -INFO - **************TC004 DELETE Request Start**************
+2022-06-07 18:26:12,144 - Rest Assured Jobs API Automation -INFO - ************** TC004 DELETE Request END **************
+2022-06-07 18:26:48,986 - Rest Assured Jobs API Automation -INFO - **************TC004 DELETE Request Start**************
+2022-06-07 18:26:53,208 - Rest Assured Jobs API Automation -INFO - ************** TC004 DELETE Request END **************
+2022-06-07 18:28:45,591 - Rest Assured Jobs API Automation -INFO - **************TC004 DELETE Request Start**************
+2022-06-07 18:28:48,678 - Rest Assured Jobs API Automation -INFO - ************** TC004 DELETE Request END **************
+2022-06-07 19:17:57,297 - Rest Assured Jobs API Automation -INFO - **************TC002 POST Request Start**************
+2022-06-07 19:17:58,841 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 19:17:58,848 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 19:17:58,852 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 19:17:58,866 - Rest Assured Jobs API Automation -INFO - ************** TC002 POST Request END **************
+2022-06-07 19:18:25,138 - Rest Assured Jobs API Automation -INFO - **************TC002 POST Request Start**************
+2022-06-07 19:18:26,608 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 19:18:26,615 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 19:18:26,619 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 19:18:28,724 - Rest Assured Jobs API Automation -INFO - ************** TC002 POST Request END **************
+2022-06-07 19:44:35,855 - Rest Assured Jobs API Automation -INFO - **************TC002 POST Request Start**************
+2022-06-07 19:44:39,041 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 19:44:39,048 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 19:44:39,054 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 19:44:39,058 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 19:44:39,063 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 19:44:39,069 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 19:44:39,072 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 19:44:39,080 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 19:44:39,087 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 19:44:39,089 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 19:44:39,094 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 19:44:39,096 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 19:44:39,100 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 19:44:39,101 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 19:44:39,109 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 19:44:39,112 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 19:44:39,117 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 19:44:39,118 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 19:44:39,119 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 19:44:39,123 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 19:44:39,128 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 19:44:41,544 - Rest Assured Jobs API Automation -INFO - ************** TC002 POST Request END **************
+2022-06-07 19:55:47,182 - Rest Assured Jobs API Automation -INFO - **************TC003 PUT Request Start**************
+2022-06-07 19:55:49,881 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:55:49,888 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:55:49,894 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:55:49,899 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:55:49,903 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:55:49,908 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:55:49,912 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:55:49,921 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:55:49,929 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:55:49,931 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:55:49,936 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:55:49,940 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:55:49,942 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:55:49,943 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:55:49,947 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:55:49,949 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:55:49,952 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:55:49,956 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:55:49,959 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:55:52,434 - Rest Assured Jobs API Automation -INFO - ************** TC003 PUT Request END **************
+2022-06-07 19:56:16,238 - Rest Assured Jobs API Automation -INFO - **************TC003 PUT Request Start**************
+2022-06-07 19:56:18,984 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:56:18,991 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:56:18,996 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:56:19,004 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:56:19,008 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:56:19,012 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:56:19,017 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:56:19,027 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:56:19,036 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:56:19,041 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:56:19,042 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:56:19,045 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:56:19,047 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:56:19,048 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:56:19,052 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:56:19,054 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:56:19,056 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:56:19,060 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:56:19,065 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:56:21,327 - Rest Assured Jobs API Automation -INFO - ************** TC003 PUT Request END **************
+2022-06-07 19:58:02,586 - Rest Assured Jobs API Automation -INFO - **************TC003 PUT Request Start**************
+2022-06-07 19:58:05,309 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:58:05,316 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:58:05,321 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:58:05,324 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:58:05,331 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:58:05,334 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:58:05,345 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:58:05,352 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:58:05,355 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:58:05,359 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:58:05,364 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:58:05,368 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:58:05,370 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:58:05,372 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:58:05,376 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:58:05,381 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:58:05,384 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:58:05,385 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:58:05,386 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:58:05,410 - Rest Assured Jobs API Automation -INFO - ************** TC003 PUT Request END **************
+2022-06-07 19:58:19,146 - Rest Assured Jobs API Automation -INFO - **************TC003 PUT Request Start**************
+2022-06-07 19:58:21,816 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:58:21,823 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:58:21,829 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:58:21,833 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:58:21,839 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:58:21,846 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:58:21,852 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:58:21,861 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:58:21,862 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:58:21,865 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:58:21,872 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:58:21,874 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:58:21,875 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:58:21,876 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:58:21,881 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:58:21,885 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:58:21,887 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:58:21,888 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:58:21,889 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 19:58:24,108 - Rest Assured Jobs API Automation -INFO - ************** TC003 PUT Request END **************
+2022-06-07 19:59:12,814 - Rest Assured Jobs API Automation -INFO - **************TC002 POST Request Start**************
+2022-06-07 19:59:15,587 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 19:59:15,594 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 19:59:15,599 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 19:59:15,603 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 19:59:15,607 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 19:59:15,612 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 19:59:15,621 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 19:59:15,631 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 19:59:15,636 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 19:59:15,641 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 19:59:15,643 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 19:59:15,647 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 19:59:15,650 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 19:59:15,653 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 19:59:15,658 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 19:59:15,663 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 19:59:15,665 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 19:59:15,669 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 19:59:15,673 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 19:59:15,675 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 19:59:15,677 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 19:59:17,890 - Rest Assured Jobs API Automation -INFO - ************** TC002 POST Request END **************
+2022-06-07 20:02:44,739 - Rest Assured Jobs API Automation -INFO - **************TC004 DELETE Request Start**************
+2022-06-07 20:02:48,319 - Rest Assured Jobs API Automation -INFO - ************** TC004 DELETE Request END **************
+2022-06-07 20:05:03,884 - Rest Assured Jobs API Automation -INFO - **************TC002 POST Request Start**************
+2022-06-07 20:05:06,859 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:05:06,866 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:05:06,870 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:05:06,873 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:05:06,879 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:05:06,884 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:05:06,888 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:05:06,892 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:05:06,899 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:05:06,902 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:05:06,903 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:05:06,909 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:05:06,912 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:05:06,916 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:05:06,917 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:05:06,924 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:05:06,926 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:05:06,928 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:05:06,929 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:05:06,931 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:05:06,932 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:05:07,546 - Rest Assured Jobs API Automation -INFO - ************** TC002 POST Request END **************
+2022-06-07 20:05:07,555 - Rest Assured Jobs API Automation -INFO - **************TC003 PUT Request Start**************
+2022-06-07 20:05:08,425 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:05:08,427 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:05:08,430 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:05:08,431 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:05:08,432 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:05:08,433 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:05:08,435 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:05:08,436 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:05:08,437 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:05:08,444 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:05:08,445 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:05:08,447 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:05:08,448 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:05:08,450 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:05:08,451 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:05:08,451 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:05:08,452 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:05:08,453 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:05:08,455 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:05:08,799 - Rest Assured Jobs API Automation -INFO - ************** TC003 PUT Request END **************
+2022-06-07 20:05:08,804 - Rest Assured Jobs API Automation -INFO - **************TC004 DELETE Request Start**************
+2022-06-07 20:05:09,518 - Rest Assured Jobs API Automation -INFO - ************** TC004 DELETE Request END **************
+2022-06-07 20:21:57,779 - Rest Assured Jobs API Automation -INFO - **************TC002 POST Request Start**************
+2022-06-07 20:22:00,531 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:22:00,538 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:22:00,544 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:22:00,548 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:22:00,552 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:22:00,555 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:22:00,565 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:22:00,573 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:22:00,577 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:22:00,582 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:22:00,583 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:22:00,587 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:22:00,590 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:22:00,591 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:22:00,596 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:22:00,598 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:22:00,601 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:22:00,603 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:22:00,604 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:22:00,607 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:22:00,610 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:22:03,579 - Rest Assured Jobs API Automation -INFO - ************** TC002 POST Request END **************
+2022-06-07 20:23:26,446 - Rest Assured Jobs API Automation -INFO - **************TC002 POST Request Start**************
+2022-06-07 20:23:29,156 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:23:29,163 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:23:29,168 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:23:29,172 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:23:29,175 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:23:29,177 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:23:29,186 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:23:29,194 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:23:29,196 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:23:29,203 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:23:29,206 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:23:29,209 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:23:29,211 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:23:29,212 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:23:29,216 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:23:29,219 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:23:29,223 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:23:29,224 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:23:29,225 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:23:29,227 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:23:29,233 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:23:32,277 - Rest Assured Jobs API Automation -INFO - ************** TC002 POST Request END **************
+2022-06-07 20:25:41,331 - Rest Assured Jobs API Automation -INFO - **************TC002 POST Request Start**************
+2022-06-07 20:25:44,067 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:25:44,076 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:25:44,081 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:25:44,084 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:25:44,093 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:25:44,099 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:25:44,106 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:25:44,114 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:25:44,121 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:25:44,127 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:25:44,128 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:25:44,132 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:25:44,135 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:25:44,138 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:25:44,142 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:25:44,144 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:25:44,147 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:25:44,149 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:25:44,151 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:25:44,152 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:25:44,155 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:25:46,368 - Rest Assured Jobs API Automation -INFO - ************** TC002 POST Request END **************
+2022-06-07 20:46:50,532 - Rest Assured Jobs API Automation -INFO - **************TC003 PUT Request Start**************
+2022-06-07 20:46:53,218 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:46:53,224 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:46:53,230 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:46:53,234 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:46:53,237 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:46:53,242 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:46:53,250 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:46:53,256 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:46:53,259 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:46:53,262 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:46:53,266 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:46:53,269 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:46:53,271 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:46:53,272 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:46:53,276 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:46:53,278 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:46:53,281 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:46:53,282 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:46:53,283 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:46:55,521 - Rest Assured Jobs API Automation -INFO - ************** TC003 PUT Request END **************
+2022-06-07 20:51:05,880 - Rest Assured Jobs API Automation -INFO - **************TC002 POST Request Start**************
+2022-06-07 20:51:07,836 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:51:07,841 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:51:07,845 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:51:07,846 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:51:07,851 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:51:07,854 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:51:07,857 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:51:07,860 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:51:07,863 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:51:07,864 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:51:07,865 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:51:07,867 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:51:07,868 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:51:07,869 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:51:07,871 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:51:07,872 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:51:07,875 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:51:07,877 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:51:07,877 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:51:07,881 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:51:07,891 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:51:08,253 - Rest Assured Jobs API Automation -INFO - ************** TC002 POST Request END **************
+2022-06-07 20:51:08,261 - Rest Assured Jobs API Automation -INFO - **************TC003 PUT Request Start**************
+2022-06-07 20:51:08,997 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:51:09,000 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:51:09,002 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:51:09,003 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:51:09,004 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:51:09,005 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:51:09,007 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:51:09,009 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:51:09,012 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:51:09,013 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:51:09,016 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:51:09,017 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:51:09,018 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:51:09,019 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:51:09,020 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:51:09,021 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:51:09,022 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:51:09,022 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:51:09,023 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:51:09,326 - Rest Assured Jobs API Automation -INFO - ************** TC003 PUT Request END **************
+2022-06-07 20:51:09,331 - Rest Assured Jobs API Automation -INFO - **************TC004 DELETE Request Start**************
+2022-06-07 20:51:09,891 - Rest Assured Jobs API Automation -INFO - ************** TC004 DELETE Request END **************
+2022-06-07 20:52:48,360 - Rest Assured Jobs API Automation -INFO - **************TC002 POST Request Start**************
+2022-06-07 20:52:50,287 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:52:50,292 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:52:50,296 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:52:50,298 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:52:50,303 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:52:50,306 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:52:50,307 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:52:50,308 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:52:50,311 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:52:50,313 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:52:50,314 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:52:50,316 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:52:50,317 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:52:50,318 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:52:50,321 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:52:50,323 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:52:50,324 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:52:50,325 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:52:50,326 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:52:50,328 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:52:50,332 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 20:52:50,685 - Rest Assured Jobs API Automation -INFO - ************** TC002 POST Request END **************
+2022-06-07 20:52:50,693 - Rest Assured Jobs API Automation -INFO - **************TC003 PUT Request Start**************
+2022-06-07 20:52:51,438 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:52:51,440 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:52:51,441 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:52:51,442 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:52:51,443 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:52:51,445 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:52:51,447 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:52:51,449 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:52:51,452 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:52:51,455 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:52:51,456 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:52:51,457 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:52:51,459 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:52:51,462 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:52:51,463 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:52:51,465 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:52:51,465 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:52:51,466 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:52:51,466 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 20:52:51,770 - Rest Assured Jobs API Automation -INFO - ************** TC003 PUT Request END **************
+2022-06-07 20:52:51,777 - Rest Assured Jobs API Automation -INFO - **************TC004 DELETE Request Start**************
+2022-06-07 20:52:52,365 - Rest Assured Jobs API Automation -INFO - ************** TC004 DELETE Request END **************
+2022-06-07 21:14:43,426 - Rest Assured Jobs API Automation -INFO - **************TC002 POST Request Start**************
+2022-06-07 21:14:45,339 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 21:14:45,344 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 21:14:45,347 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 21:14:45,349 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 21:14:45,354 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 21:14:45,357 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 21:14:45,358 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 21:14:45,360 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 21:14:45,361 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 21:14:45,363 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 21:14:45,364 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 21:14:45,365 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 21:14:45,366 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 21:14:45,367 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 21:14:45,370 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 21:14:45,372 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 21:14:45,373 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 21:14:45,374 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 21:14:45,374 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 21:14:45,376 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 21:14:45,380 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 21:14:45,724 - Rest Assured Jobs API Automation -INFO - ************** TC002 POST Request END **************
+2022-06-07 21:14:45,732 - Rest Assured Jobs API Automation -INFO - **************TC003 PUT Request Start**************
+2022-06-07 21:14:46,530 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 21:14:46,534 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 21:14:46,535 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 21:14:46,536 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 21:14:46,536 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 21:14:46,537 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 21:14:46,538 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 21:14:46,542 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 21:14:46,546 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 21:14:46,550 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 21:14:46,551 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 21:14:46,552 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 21:14:46,553 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 21:14:46,555 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 21:14:46,556 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 21:14:46,558 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 21:14:46,561 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 21:14:46,562 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 21:14:46,562 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 21:14:46,881 - Rest Assured Jobs API Automation -INFO - ************** TC003 PUT Request END **************
+2022-06-07 21:14:46,889 - Rest Assured Jobs API Automation -INFO - **************TC004 DELETE Request Start**************
+2022-06-07 21:14:47,370 - Rest Assured Jobs API Automation -INFO - ************** TC004 DELETE Request END **************
+2022-06-07 21:17:22,504 - Rest Assured Jobs API Automation -INFO - **************TC002 POST Request Start**************
+2022-06-07 21:17:25,035 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 21:17:25,039 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 21:17:25,046 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 21:17:25,047 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 21:17:25,053 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 21:17:25,056 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 21:17:25,058 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 21:17:25,060 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 21:17:25,061 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 21:17:25,064 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 21:17:25,064 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 21:17:25,066 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 21:17:25,068 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 21:17:25,069 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 21:17:25,071 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 21:17:25,072 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 21:17:25,074 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 21:17:25,075 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 21:17:25,076 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 21:17:25,078 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 21:17:25,084 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 21:17:25,086 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 21:17:25,087 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 21:17:25,088 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 21:17:25,089 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 21:17:25,090 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 21:17:25,092 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 21:17:25,092 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 21:17:25,094 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 21:17:25,097 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 21:17:25,100 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 21:17:25,105 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 21:17:25,106 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 21:17:25,107 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 21:17:25,467 - Rest Assured Jobs API Automation -INFO - ************** TC002 POST Request END **************
+2022-06-07 21:17:25,473 - Rest Assured Jobs API Automation -INFO - **************TC003 PUT Request Start**************
+2022-06-07 21:17:26,485 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 21:17:26,490 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 21:17:26,493 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 21:17:26,494 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 21:17:26,495 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 21:17:26,495 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 21:17:26,496 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 21:17:26,496 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 21:17:26,497 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 21:17:26,498 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 21:17:26,498 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 21:17:26,499 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 21:17:26,500 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 21:17:26,502 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 21:17:26,508 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 21:17:26,509 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 21:17:26,527 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 21:17:26,529 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 21:17:26,530 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 21:17:26,875 - Rest Assured Jobs API Automation -INFO - ************** TC003 PUT Request END **************
+2022-06-07 21:17:26,885 - Rest Assured Jobs API Automation -INFO - **************TC004 DELETE Request Start**************
+2022-06-07 21:17:27,417 - Rest Assured Jobs API Automation -INFO - ************** TC004 DELETE Request END **************
+2022-06-07 22:33:40,493 - Rest Assured Jobs API Automation -INFO - **************TC002 POST Request Start**************
+2022-06-07 22:33:43,070 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 22:33:43,076 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 22:33:43,081 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 22:33:43,083 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 22:33:43,090 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 22:33:43,093 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 22:33:43,094 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 22:33:43,096 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 22:33:43,099 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 22:33:43,101 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 22:33:43,102 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 22:33:43,104 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 22:33:43,106 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 22:33:43,108 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 22:33:43,117 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 22:33:43,121 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 22:33:43,125 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 22:33:43,127 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 22:33:43,128 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 22:33:43,129 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 22:33:43,136 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 22:33:43,139 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 22:33:43,141 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 22:33:43,142 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 22:33:43,144 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 22:33:43,148 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 22:33:43,156 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 22:33:43,160 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 22:33:43,162 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 22:33:43,165 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 22:33:43,167 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 22:33:43,171 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 22:33:43,174 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 22:33:43,174 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-07 22:33:43,551 - Rest Assured Jobs API Automation -INFO - ************** TC002 POST Request END **************
+2022-06-07 22:33:43,558 - Rest Assured Jobs API Automation -INFO - **************TC003 PUT Request Start**************
+2022-06-07 22:33:44,505 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 22:33:44,509 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 22:33:44,510 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 22:33:44,516 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 22:33:44,517 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 22:33:44,518 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 22:33:44,519 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 22:33:44,527 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 22:33:44,529 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 22:33:44,529 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 22:33:44,531 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 22:33:44,532 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 22:33:44,533 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 22:33:44,536 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 22:33:44,539 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 22:33:44,540 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 22:33:44,555 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 22:33:44,560 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 22:33:44,561 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-07 22:33:44,913 - Rest Assured Jobs API Automation -INFO - ************** TC003 PUT Request END **************
+2022-06-07 22:33:44,924 - Rest Assured Jobs API Automation -INFO - **************TC004 DELETE Request Start**************
+2022-06-07 22:33:45,417 - Rest Assured Jobs API Automation -INFO - ************** TC004 DELETE Request END **************
+2022-06-19 15:44:39,154 - Rest Assured Jobs API Automation -INFO - **************TC002 POST Request Start**************
+2022-06-19 15:44:41,745 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:44:41,750 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:44:41,755 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:44:41,760 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:44:41,766 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:44:41,769 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:44:41,770 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:44:41,773 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:44:41,777 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:44:41,779 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:44:41,780 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:44:41,782 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:44:41,783 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:44:41,784 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:44:41,785 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:44:41,785 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:44:41,787 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:44:41,788 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:44:41,790 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:44:41,796 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:44:41,807 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:44:41,811 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:44:41,814 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:44:41,815 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:44:41,815 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:44:41,817 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:44:41,820 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:44:41,824 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:44:41,826 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:44:41,835 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:44:41,840 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:44:41,842 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:44:41,858 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:44:41,862 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:44:42,390 - Rest Assured Jobs API Automation -INFO - ************** TC002 POST Request END **************
+2022-06-19 15:44:42,401 - Rest Assured Jobs API Automation -INFO - **************TC003 PUT Request Start**************
+2022-06-19 15:44:43,286 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-19 15:44:43,291 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-19 15:44:43,294 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-19 15:44:43,295 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-19 15:44:43,296 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-19 15:44:43,296 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-19 15:44:43,297 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-19 15:44:43,298 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-19 15:44:43,298 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-19 15:44:43,299 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-19 15:44:43,300 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-19 15:44:43,301 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-19 15:44:43,302 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-19 15:44:43,308 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-19 15:44:43,311 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-19 15:44:43,312 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-19 15:44:43,324 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-19 15:44:43,327 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-19 15:44:43,328 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-19 15:44:43,667 - Rest Assured Jobs API Automation -INFO - ************** TC003 PUT Request END **************
+2022-06-19 15:44:43,678 - Rest Assured Jobs API Automation -INFO - **************TC004 DELETE Request Start**************
+2022-06-19 15:44:44,288 - Rest Assured Jobs API Automation -INFO - ************** TC004 DELETE Request END **************
+2022-06-19 15:47:18,311 - Rest Assured Jobs API Automation -INFO - **************TC002 POST Request Start**************
+2022-06-19 15:47:20,902 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:47:20,907 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:47:20,911 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:47:20,913 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:47:20,918 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:47:20,922 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:47:20,925 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:47:20,928 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:47:20,930 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:47:20,931 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:47:20,933 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:47:20,940 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:47:20,941 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:47:20,943 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:47:20,944 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:47:20,946 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:47:20,947 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:47:20,948 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:47:20,949 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:47:20,949 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:47:20,956 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:47:20,957 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:47:20,958 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:47:20,959 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:47:20,960 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:47:20,961 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:47:20,963 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:47:20,964 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:47:20,967 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:47:20,974 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:47:20,976 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:47:20,978 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:47:20,983 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:47:20,984 - Rest Assured Jobs API Automation -INFO - POST request Data Entered
+2022-06-19 15:47:21,121 - Rest Assured Jobs API Automation -INFO - ************** TC002 POST Request END **************
+2022-06-19 15:47:21,128 - Rest Assured Jobs API Automation -INFO - **************TC003 PUT Request Start**************
+2022-06-19 15:47:22,089 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-19 15:47:22,093 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-19 15:47:22,098 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-19 15:47:22,099 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-19 15:47:22,100 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-19 15:47:22,100 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-19 15:47:22,101 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-19 15:47:22,101 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-19 15:47:22,106 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-19 15:47:22,108 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-19 15:47:22,111 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-19 15:47:22,111 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-19 15:47:22,113 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-19 15:47:22,113 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-19 15:47:22,116 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-19 15:47:22,117 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-19 15:47:22,124 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-19 15:47:22,126 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-19 15:47:22,126 - Rest Assured Jobs API Automation -INFO - PUT request Data Entered
+2022-06-19 15:47:22,170 - Rest Assured Jobs API Automation -INFO - ************** TC003 PUT Request END **************
+2022-06-19 15:47:22,174 - Rest Assured Jobs API Automation -INFO - **************TC004 DELETE Request Start**************
+2022-06-19 15:47:22,594 - Rest Assured Jobs API Automation -INFO - ************** TC004 DELETE Request END **************
